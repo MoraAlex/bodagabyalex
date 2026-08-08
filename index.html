@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+
+<html class="scroll-smooth" lang="es"><head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0, viewport-fit=cover" name="viewport"/>
+<title>Gaby &amp; Alex | Boda</title>
+<!-- BEGIN: Fonts & Icons -->
+<link href="https://fonts.googleapis.com" rel="preconnect"/>
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&amp;family=Plus+Jakarta+Sans:wght@300;400;500;600&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1" rel="stylesheet"/>
+<!-- END: Fonts & Icons -->
+<!-- BEGIN: Tailwind Configuration -->
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          colors: {
+            'aurelia-peach': '#FF9E79',
+            'aurelia-yellow': '#FFF5C0',
+            'aurelia-cream': '#FBF9F5',
+            'aurelia-brown': '#79573F',
+            'surface-dark': '#1B1C1A',
+          },
+          fontFamily: {
+            'serif': ['Playfair Display', 'serif'],
+            'sans': ['Plus Jakarta Sans', 'sans-serif'],
+          },
+        },
+      },
+    };
+  </script>
+<!-- END: Tailwind Configuration -->
+<!-- BEGIN: Custom Styles -->
+<style data-purpose="animations">
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(20px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+    .animate-reveal {
+      animation: fadeIn 1.2s ease-out forwards;
+    }
+    .glass-nav {
+      background: rgba(251, 249, 245, 0.8);
+      backdrop-filter: blur(10px);
+    }
+  </style>
+<style data-purpose="decorative-elements">
+    .peach-gradient-bg {
+      background: radial-gradient(circle at top right, rgba(255, 158, 121, 0.15), transparent),
+                  radial-gradient(circle at bottom left, rgba(255, 245, 192, 0.2), transparent);
+    }
+    .premium-shadow {
+      box-shadow: 0 20px 40px -15px rgba(121, 87, 63, 0.1);
+    }
+    .material-symbols-outlined {
+      font-variation-settings: 'FILL' 0, 'wght' 300, 'GRAD' 0, 'opsz' 24;
+    }
+  </style>
+<!-- END: Custom Styles -->
+</head>
+<body class="bg-aurelia-cream font-sans text-surface-dark selection:bg-aurelia-peach/30">
+<!-- BEGIN: Sticky Header -->
+<header class="fixed top-0 left-0 right-0 z-50 glass-nav border-b border-aurelia-peach/10">
+<div class="max-w-md mx-auto px-6 h-16 flex items-center justify-between">
+<span class="material-symbols-outlined text-aurelia-peach"></span>
+<h1 class="font-serif italic text-xl text-aurelia-brown">G &amp; A</h1>
+<div class="w-6"></div> <!-- Balance spacer -->
+</div>
+</header>
+<!-- END: Sticky Header -->
+<main class="max-w-md mx-auto pt-16 pb-32 overflow-x-hidden">
+<!-- BEGIN: Hero Section -->
+<section class="relative px-6 pt-12 pb-16 text-center animate-reveal peach-gradient-bg" data-purpose="hero">
+<div class="mb-4">
+<span class="text-[10px] uppercase tracking-[0.3em] text-aurelia-brown font-semibold">¡Nos Casamos!</span>
+</div>
+<h2 class="font-serif text-5xl md:text-6xl text-aurelia-brown mb-4">Gaby &amp; Alex</h2>
+<p class="font-serif italic text-lg text-aurelia-peach mb-10">Uniendo nuestras vidas en amor</p>
+<!-- Hero Image -->
+<div class="relative w-full aspect-[4/5] rounded-t-[100px] rounded-b-3xl overflow-hidden premium-shadow mb-10">
+<img alt="Romantic garden in Mexico City" class="w-full h-full object-cover" src="https://lh3.googleusercontent.com/aida-public/AB6AXuDuS7CW61-6JTaNzMoRyziJw9VVom4p3rjxtSN0NrQtanlBkW8SnX2rSGFr1liB43IDZ3exZmuy82z1wTaEIqEPynlkOmy39CNRgiI3TMPoGlM_21Ms80WPV5lrAcSktS-5gj5iB_9ldsTTIAPwjuqD8JHoGYpvnllVadjREnER1FnX7HMQ90t5ystdzZm4tqXgPzUDxa-mfHOrmJjnWQOwyiZU_xyA8J-q9HRlaCr3_Iln48-1R9uX"/>
+<div class="absolute inset-0 bg-gradient-to-t from-aurelia-brown/20 to-transparent"></div>
+</div>
+<div class="space-y-2">
+<p class="font-serif text-2xl text-surface-dark">Viernes 4 de Diciembre, 2026</p>
+<div class="flex items-center justify-center gap-2 text-aurelia-brown/70">
+<span class="material-symbols-outlined text-sm">location_on</span>
+<span class="text-sm tracking-wide uppercase">Zapopan Jalisco</span>
+</div>
+</div>
+</section>
+<!-- END: Hero Section -->
+<!-- BEGIN: Countdown Section -->
+<section class="px-6 py-8" data-purpose="wedding-countdown">
+<div class="bg-white rounded-[40px] p-8 premium-shadow border border-aurelia-yellow">
+<h3 class="font-serif text-center text-xl text-aurelia-brown mb-8 italic">Faltan solo...</h3>
+<div class="flex justify-between gap-3" id="wedding-timer">
+<!-- Days -->
+<div class="flex-1 text-center">
+<div class="bg-aurelia-yellow aspect-square flex flex-col items-center justify-center rounded-3xl mb-2 transition-transform hover:scale-105">
+<span class="text-2xl font-serif text-aurelia-brown" id="timer-days">00</span>
+</div>
+<span class="text-[9px] font-bold tracking-widest text-aurelia-brown/60 uppercase">Días</span>
+</div>
+<!-- Hours -->
+<div class="flex-1 text-center">
+<div class="bg-aurelia-yellow aspect-square flex flex-col items-center justify-center rounded-3xl mb-2 transition-transform hover:scale-105">
+<span class="text-2xl font-serif text-aurelia-brown" id="timer-hours">00</span>
+</div>
+<span class="text-[9px] font-bold tracking-widest text-aurelia-brown/60 uppercase">Horas</span>
+</div>
+<!-- Minutes -->
+<div class="flex-1 text-center">
+<div class="bg-aurelia-yellow aspect-square flex flex-col items-center justify-center rounded-3xl mb-2 transition-transform hover:scale-105">
+<span class="text-2xl font-serif text-aurelia-brown" id="timer-mins">00</span>
+</div>
+<span class="text-[9px] font-bold tracking-widest text-aurelia-brown/60 uppercase">Mins</span>
+</div>
+<!-- Seconds -->
+<div class="flex-1 text-center">
+<div class="bg-aurelia-peach/20 aspect-square flex flex-col items-center justify-center rounded-3xl mb-2 transition-transform hover:scale-105">
+<span class="text-2xl font-serif text-aurelia-peach" id="timer-secs">00</span>
+</div>
+<span class="text-[9px] font-bold tracking-widest text-aurelia-brown/60 uppercase">Segs</span>
+</div>
+</div>
+</div>
+</section>
+<!-- END: Countdown Section -->
+<!-- BEGIN: Details Section -->
+<section class="px-6 py-12 space-y-12">
+<!-- Location Detail -->
+<div class="flex flex-col items-center text-center space-y-4">
+<div class="w-16 h-16 rounded-full bg-aurelia-peach/10 flex items-center justify-center text-aurelia-peach mb-2">
+<span class="material-symbols-outlined text-3xl">castle</span>
+</div>
+<h4 class="font-serif text-2xl text-aurelia-brown">La Hacienda</h4>
+<p class="text-surface-dark/70 leading-relaxed">
+          Hotel Hacienda la Magdalena<br/>
+          Carr. a Colotlán 1701-Km 1.7,<br/>La Magdalena,<br/>45200 Jal., México
+        </p>
+<a class="inline-flex items-center gap-2 text-xs font-bold tracking-widest text-aurelia-peach border-b border-aurelia-peach/30 pb-1 hover:border-aurelia-peach transition-all" href="https://maps.app.goo.gl/YKsDkXfeMNhRssUv5">
+          VER EN GOOGLE MAPS
+          <span class="material-symbols-outlined text-sm">arrow_outward</span>
+</a>
+</div>
+<!-- Divider -->
+<div class="flex justify-center items-center gap-4 py-4">
+<div class="h-px w-12 bg-aurelia-peach/20"></div>
+<span class="material-symbols-outlined text-aurelia-peach/40 text-xs">flare</span>
+<div class="h-px w-12 bg-aurelia-peach/20"></div>
+</div>
+<!-- Schedule Detail -->
+<div class="flex flex-col items-center text-center space-y-4">
+<div class="w-16 h-16 rounded-full bg-aurelia-yellow flex items-center justify-center text-aurelia-brown mb-2">
+<span class="material-symbols-outlined text-3xl">history_toggle_off</span>
+</div>
+<h4 class="font-serif text-2xl text-aurelia-brown">Ceremonia</h4>
+<p class="text-surface-dark/70">Viernes 4 de Diciembre, 2026<br/>Recepción 18:00 hrs</p>
+</div>
+<!-- Dress Code Detail -->
+<div class="flex flex-col items-center text-center space-y-4">
+<div class="w-16 h-16 rounded-full bg-aurelia-brown/5 flex items-center justify-center text-aurelia-brown mb-2">
+<span class="material-symbols-outlined text-3xl">apparel</span>
+</div>
+<h4 class="font-serif text-2xl text-aurelia-brown">Código de Vestimenta</h4>
+<p class="text-surface-dark/70">Formal<br/><span class="text-[11px] font-bold tracking-widest text-aurelia-peach uppercase mt-1 block">Black Tie Optional</span></p>
+</div>
+</section>
+<!-- END: Details Section -->
+<!-- BEGIN: Map Placeholder -->
+<section class="px-6 mt-8">
+<div class="w-full h-64 rounded-[40px] overflow-hidden grayscale contrast-[0.8] brightness-[1.05] border border-aurelia-peach/20 premium-shadow">
+<img alt="Map of the venue location" class="w-full h-full object-cover" src="https://lh3.googleusercontent.com/aida-public/AB6AXuA9DF0YhCf70ttDVHq0FYIcY7f8VURmq3WN0OZcBzfIGv68M-Uf_BOVo-TZeJ5hFo5RLJLDJJpeJ0EsijhaOVxZGDefIGH4KOgKVt0rVV3I9z42-H-hcWwVZJDqA8Se9YhpCld3BpvHAdCruk5IpZz1gClwGIcyYmt3uij3eVTp4Qi8jhPrtq2WDTDlUwCQ63LLjuFVRKPXGiB9rdqjy1rK_KKIB16SJPcPHlagdZB11wnugx0Fexu3"/>
+</div>
+</section>
+<!-- END: Map Placeholder -->
+</main>
+<!-- BEGIN: Sticky RSVP Action -->
+<div class="fixed bottom-0 left-0 right-0 p-6 z-50 pointer-events-none">
+<div class="max-w-md mx-auto w-full pointer-events-auto">
+<button class="w-full h-16 bg-aurelia-peach text-white rounded-full flex items-center justify-center gap-3 font-semibold text-lg shadow-[0_15px_30px_rgba(255,158,121,0.4)] active:scale-95 transition-all" onclick="confirmarAsistencia()">
+<span class="material-symbols-outlined">send</span>
+        Confirmar Asistencia
+      </button>
+</div>
+</div>
+<!-- END: Sticky RSVP Action -->
+<!-- BEGIN: Timer Logic -->
+<script data-purpose="countdown-logic">
+    // Setting target date: Dec 4, 2026
+    const targetDate = new Date('December 4, 2026 18:00:00').getTime();
+
+    function updateCountdown() {
+      const now = new Date().getTime();
+      const difference = targetDate - now;
+
+      const d = Math.floor(difference / (1000 * 60 * 60 * 24));
+      const h = Math.floor((difference % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+      const m = Math.floor((difference % (1000 * 60 * 60)) / (1000 * 60));
+      const s = Math.floor((difference % (1000 * 60)) / 1000);
+
+      document.getElementById('timer-days').innerText = d.toString().padStart(2, '0');
+      document.getElementById('timer-hours').innerText = h.toString().padStart(2, '0');
+      document.getElementById('timer-mins').innerText = m.toString().padStart(2, '0');
+      document.getElementById('timer-secs').innerText = s.toString().padStart(2, '0');
+    }
+
+    setInterval(updateCountdown, 1000);
+    updateCountdown();
+  </script>
+<!-- END: Timer Logic -->
+<script>
+function confirmarAsistencia() {
+  // Reemplaza con tu número (incluye código de país, ej. 52 para México)
+    const telefono = "+523316943732";
+    const mensaje = encodeURIComponent("¡Hola! Confirmo mi asistencia para la boda de Gaby y Alex");
+
+    const url = `https://wa.me/${telefono}?text=${mensaje}`;
+
+    // opens the link in a new tab
+    window.open(url, "_blank");
+}
+</script>
+
+</body></html>
