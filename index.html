@@ -213,6 +213,35 @@
                 </div>
             </section>
             <!-- END: Hero Section -->
+            <!-- BEGIN: Personalized Invite Section -->
+            <section class="px-6 pt-8" data-purpose="invitado-personalizado">
+                <div
+                    class="bg-white rounded-[40px] p-8 premium-shadow border border-aurelia-yellow text-center space-y-3"
+                >
+                    <span
+                        class="material-symbols-outlined text-aurelia-peach text-3xl"
+                        >mail</span
+                    >
+                    <h3
+                        class="font-serif italic text-2xl text-aurelia-brown"
+                        id="saludo-invitado"
+                    >
+                        Nos encantaría contar contigo
+                    </h3>
+                    <p
+                        class="text-surface-dark/70 leading-relaxed"
+                        id="mensaje-invitado"
+                    >
+                        Esperamos puedas acompañarnos este día tan especial.
+                        Nos harías un gran favor si confirmas tu asistencia.
+                    </p>
+                    <p
+                        class="text-[13px] font-bold tracking-widest text-aurelia-peach uppercase pt-1"
+                        id="pases-invitado"
+                    ></p>
+                </div>
+            </section>
+            <!-- END: Personalized Invite Section -->
             <!-- BEGIN: Countdown Section -->
             <section class="px-6 py-8" data-purpose="wedding-countdown">
                 <div
@@ -535,13 +564,16 @@
         <!-- BEGIN: Sticky RSVP Action -->
         <div class="fixed bottom-0 left-0 right-0 p-6 z-50 pointer-events-none">
             <div class="max-w-md mx-auto w-full pointer-events-auto">
-                <button
+                <a
                     class="w-full h-16 bg-aurelia-peach text-white rounded-full flex items-center justify-center gap-3 font-semibold text-lg shadow-[0_15px_30px_rgba(255,158,121,0.4)] active:scale-95 transition-all"
-                    onclick="confirmarAsistencia()"
+                    href="https://wa.me/523316943732"
+                    id="btn-whatsapp"
+                    rel="noopener"
+                    target="_blank"
                 >
                     <span class="material-symbols-outlined">send</span>
                     Confirmar Asistencia
-                </button>
+                </a>
             </div>
         </div>
         <!-- END: Sticky RSVP Action -->
@@ -581,19 +613,9 @@
             updateCountdown();
         </script>
         <!-- END: Timer Logic -->
-        <script>
-            function confirmarAsistencia() {
-                // Reemplaza con tu número (incluye código de país, ej. 52 para México)
-                const telefono = "+523316943732";
-                const mensaje = encodeURIComponent(
-                    "¡Hola! Confirmo mi asistencia para la boda de Gaby y Alex",
-                );
-
-                const url = `https://wa.me/${telefono}?text=${mensaje}`;
-
-                // opens the link in a new tab
-                window.open(url, "_blank");
-            }
-        </script>
+        <!-- BEGIN: Invitación Personalizada -->
+        <script src="invitados.js"></script>
+        <script src="invitacion.js"></script>
+        <!-- END: Invitación Personalizada -->
     </body>
 </html>
