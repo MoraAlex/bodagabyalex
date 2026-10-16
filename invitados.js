@@ -9,7 +9,7 @@ window.INVITADOS = {
     "saludo": "Juan",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Hola, Juan, esperamos puedas acompañarnos este día tan especial. Nos harías un gran favor si confirmas tu asistencia.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
     "confirmacion": "¡Hola! Soy Juan Saucedo y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
@@ -21,8 +21,8 @@ window.INVITADOS = {
     "saludo": "Guadalupe",
     "pases": 3,
     "pasesTexto": "Hemos reservado 3 lugares a tu nombre.",
-    "mensaje": "Hola, Guadalupe, esperamos puedas acompañarnos este día tan especial junto a tus acompañantes Leo y Oswaldo. Nos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Guadalupe y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mis acompañantes Leo y Oswaldo.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
+    "confirmacion": "¡Hola! Soy Guadalupe y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mis acompañantes.",
     "acompañantes": [
       {
         "id": 3,
@@ -42,8 +42,8 @@ window.INVITADOS = {
     "saludo": "Moni",
     "pases": 2,
     "pasesTexto": "Hemos reservado 2 lugares a tu nombre.",
-    "mensaje": "Hola, Moni, esperamos puedas acompañarnos este día tan especial junto a tu acompañante Josue. Nos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Moni y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante Josue.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
+    "confirmacion": "¡Hola! Soy Moni y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante.",
     "acompañantes": [
       {
         "id": 5,
@@ -59,8 +59,8 @@ window.INVITADOS = {
     "saludo": "Brenda",
     "pases": 2,
     "pasesTexto": "Hemos reservado 2 lugares a tu nombre.",
-    "mensaje": "Hola, Brenda, esperamos puedas acompañarnos este día tan especial junto a tu acompañante Cris. Nos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Brenda Saucedo y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante Cris.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
+    "confirmacion": "¡Hola! Soy Brenda Saucedo y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante.",
     "acompañantes": [
       {
         "id": 8,
@@ -76,7 +76,7 @@ window.INVITADOS = {
     "saludo": "Fer",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Hola, Fer, esperamos puedas acompañarnos este día tan especial. Nos harías un gran favor si confirmas tu asistencia.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
     "confirmacion": "¡Hola! Soy Fer Saucedo y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
@@ -88,7 +88,7 @@ window.INVITADOS = {
     "saludo": "Tia Pili",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Hola, Tia Pili, esperamos puedas acompañarnos este día tan especial. Nos harías un gran favor si confirmas tu asistencia.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
     "confirmacion": "¡Hola! Soy Tia Pili y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
@@ -100,7 +100,7 @@ window.INVITADOS = {
     "saludo": "Uriel",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Hola, Uriel, esperamos puedas acompañarnos este día tan especial. Nos harías un gran favor si confirmas tu asistencia.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
     "confirmacion": "¡Hola! Soy Uriel y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
@@ -112,7 +112,7 @@ window.INVITADOS = {
     "saludo": "Elvia",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Hola, Elvia, esperamos puedas acompañarnos este día tan especial. Nos harías un gran favor si confirmas tu asistencia.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
     "confirmacion": "¡Hola! Soy Elvia y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
@@ -124,7 +124,7 @@ window.INVITADOS = {
     "saludo": "Raul",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Hola, Raul, esperamos puedas acompañarnos este día tan especial. Nos harías un gran favor si confirmas tu asistencia.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
     "confirmacion": "¡Hola! Soy Raul y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
@@ -136,7 +136,7 @@ window.INVITADOS = {
     "saludo": "Usiel",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Hola, Usiel, esperamos puedas acompañarnos este día tan especial. Nos harías un gran favor si confirmas tu asistencia.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
     "confirmacion": "¡Hola! Soy Usiel y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
@@ -148,7 +148,7 @@ window.INVITADOS = {
     "saludo": "Paco",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Hola, Paco, esperamos puedas acompañarnos este día tan especial. Nos harías un gran favor si confirmas tu asistencia.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
     "confirmacion": "¡Hola! Soy Paco Padrino de XV y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
@@ -160,7 +160,7 @@ window.INVITADOS = {
     "saludo": "Laura",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Hola, Laura, esperamos puedas acompañarnos este día tan especial. Nos harías un gran favor si confirmas tu asistencia.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
     "confirmacion": "¡Hola! Soy Laura Madrina de XV y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
@@ -172,7 +172,7 @@ window.INVITADOS = {
     "saludo": "Tio Armando",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Hola, Tio Armando, esperamos puedas acompañarnos este día tan especial. Nos harías un gran favor si confirmas tu asistencia.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
     "confirmacion": "¡Hola! Soy Tio Armando y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
@@ -184,7 +184,7 @@ window.INVITADOS = {
     "saludo": "Memo",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Hola, Memo, esperamos puedas acompañarnos este día tan especial. Nos harías un gran favor si confirmas tu asistencia.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
     "confirmacion": "¡Hola! Soy Memo y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
@@ -196,7 +196,7 @@ window.INVITADOS = {
     "saludo": "Sarah",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Hola, Sarah, esperamos puedas acompañarnos este día tan especial. Nos harías un gran favor si confirmas tu asistencia.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
     "confirmacion": "¡Hola! Soy Sarah y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
@@ -208,7 +208,7 @@ window.INVITADOS = {
     "saludo": "Roy",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Hola, Roy, esperamos puedas acompañarnos este día tan especial. Nos harías un gran favor si confirmas tu asistencia.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
     "confirmacion": "¡Hola! Soy Roy y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
@@ -220,7 +220,7 @@ window.INVITADOS = {
     "saludo": "Edith",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Hola, Edith, esperamos puedas acompañarnos este día tan especial. Nos harías un gran favor si confirmas tu asistencia.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
     "confirmacion": "¡Hola! Soy Edith y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
@@ -232,7 +232,7 @@ window.INVITADOS = {
     "saludo": "Bety",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Hola, Bety, esperamos puedas acompañarnos este día tan especial. Nos harías un gran favor si confirmas tu asistencia.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
     "confirmacion": "¡Hola! Soy Bety y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
@@ -244,7 +244,7 @@ window.INVITADOS = {
     "saludo": "Barbara",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Hola, Barbara, esperamos puedas acompañarnos este día tan especial. Nos harías un gran favor si confirmas tu asistencia.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
     "confirmacion": "¡Hola! Soy Barbara y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
@@ -256,7 +256,7 @@ window.INVITADOS = {
     "saludo": "Fany",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Hola, Fany, esperamos puedas acompañarnos este día tan especial. Nos harías un gran favor si confirmas tu asistencia.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
     "confirmacion": "¡Hola! Soy Fany Mayorga y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
@@ -268,7 +268,7 @@ window.INVITADOS = {
     "saludo": "Juan",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Hola, Juan, esperamos puedas acompañarnos este día tan especial. Nos harías un gran favor si confirmas tu asistencia.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
     "confirmacion": "¡Hola! Soy Juan y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
@@ -280,7 +280,7 @@ window.INVITADOS = {
     "saludo": "Miguel",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Hola, Miguel, esperamos puedas acompañarnos este día tan especial. Nos harías un gran favor si confirmas tu asistencia.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
     "confirmacion": "¡Hola! Soy Miguel y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
@@ -292,7 +292,7 @@ window.INVITADOS = {
     "saludo": "Mateo",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Hola, Mateo, esperamos puedas acompañarnos este día tan especial. Nos harías un gran favor si confirmas tu asistencia.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
     "confirmacion": "¡Hola! Soy Mateo y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
@@ -304,7 +304,7 @@ window.INVITADOS = {
     "saludo": "Cinthia",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Hola, Cinthia, esperamos puedas acompañarnos este día tan especial. Nos harías un gran favor si confirmas tu asistencia.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
     "confirmacion": "¡Hola! Soy Cinthia y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
@@ -316,7 +316,7 @@ window.INVITADOS = {
     "saludo": "Angel",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Hola, Angel, esperamos puedas acompañarnos este día tan especial. Nos harías un gran favor si confirmas tu asistencia.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
     "confirmacion": "¡Hola! Soy Angel y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
@@ -328,7 +328,7 @@ window.INVITADOS = {
     "saludo": "Anairis",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Hola, Anairis, esperamos puedas acompañarnos este día tan especial. Nos harías un gran favor si confirmas tu asistencia.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
     "confirmacion": "¡Hola! Soy Anairis y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
@@ -340,7 +340,7 @@ window.INVITADOS = {
     "saludo": "Christian",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Hola, Christian, esperamos puedas acompañarnos este día tan especial. Nos harías un gran favor si confirmas tu asistencia.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
     "confirmacion": "¡Hola! Soy Christian y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
@@ -352,7 +352,7 @@ window.INVITADOS = {
     "saludo": "Omar",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Hola, Omar, esperamos puedas acompañarnos este día tan especial. Nos harías un gran favor si confirmas tu asistencia.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
     "confirmacion": "¡Hola! Soy Omar Arce y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
@@ -364,7 +364,7 @@ window.INVITADOS = {
     "saludo": "Viri",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Hola, Viri, esperamos puedas acompañarnos este día tan especial. Nos harías un gran favor si confirmas tu asistencia.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
     "confirmacion": "¡Hola! Soy Viri y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
@@ -376,7 +376,7 @@ window.INVITADOS = {
     "saludo": "Sergio",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Hola, Sergio, esperamos puedas acompañarnos este día tan especial. Nos harías un gran favor si confirmas tu asistencia.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
     "confirmacion": "¡Hola! Soy Sergio Gallardo y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
@@ -388,7 +388,7 @@ window.INVITADOS = {
     "saludo": "Yadira",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Hola, Yadira, esperamos puedas acompañarnos este día tan especial. Nos harías un gran favor si confirmas tu asistencia.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
     "confirmacion": "¡Hola! Soy Yadira Gallardo y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
@@ -400,7 +400,7 @@ window.INVITADOS = {
     "saludo": "Claudia",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Hola, Claudia, esperamos puedas acompañarnos este día tan especial. Nos harías un gran favor si confirmas tu asistencia.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
     "confirmacion": "¡Hola! Soy Claudia Mancilla y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
@@ -412,7 +412,7 @@ window.INVITADOS = {
     "saludo": "Erik",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Hola, Erik, esperamos puedas acompañarnos este día tan especial. Nos harías un gran favor si confirmas tu asistencia.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
     "confirmacion": "¡Hola! Soy Erik y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
@@ -424,7 +424,7 @@ window.INVITADOS = {
     "saludo": "Leo",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Hola, Leo, esperamos puedas acompañarnos este día tan especial. Nos harías un gran favor si confirmas tu asistencia.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
     "confirmacion": "¡Hola! Soy Leo y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
@@ -436,7 +436,7 @@ window.INVITADOS = {
     "saludo": "Rami",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Hola, Rami, esperamos puedas acompañarnos este día tan especial. Nos harías un gran favor si confirmas tu asistencia.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
     "confirmacion": "¡Hola! Soy Rami y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
@@ -448,7 +448,7 @@ window.INVITADOS = {
     "saludo": "Fany",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Hola, Fany, esperamos puedas acompañarnos este día tan especial. Nos harías un gran favor si confirmas tu asistencia.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
     "confirmacion": "¡Hola! Soy Fany Gaitan y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
@@ -460,7 +460,7 @@ window.INVITADOS = {
     "saludo": "Yair",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Hola, Yair, esperamos puedas acompañarnos este día tan especial. Nos harías un gran favor si confirmas tu asistencia.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
     "confirmacion": "¡Hola! Soy Yair y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
@@ -472,7 +472,7 @@ window.INVITADOS = {
     "saludo": "Fer",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Hola, Fer, esperamos puedas acompañarnos este día tan especial. Nos harías un gran favor si confirmas tu asistencia.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
     "confirmacion": "¡Hola! Soy Fer Bravo y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
@@ -484,7 +484,7 @@ window.INVITADOS = {
     "saludo": "Yordan",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Hola, Yordan, esperamos puedas acompañarnos este día tan especial. Nos harías un gran favor si confirmas tu asistencia.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
     "confirmacion": "¡Hola! Soy Yordan Valentin y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
@@ -496,7 +496,7 @@ window.INVITADOS = {
     "saludo": "Cynthia",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Hola, Cynthia, esperamos puedas acompañarnos este día tan especial. Nos harías un gran favor si confirmas tu asistencia.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
     "confirmacion": "¡Hola! Soy Cynthia y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
@@ -508,7 +508,7 @@ window.INVITADOS = {
     "saludo": "Saul",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Hola, Saul, esperamos puedas acompañarnos este día tan especial. Nos harías un gran favor si confirmas tu asistencia.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
     "confirmacion": "¡Hola! Soy Saul y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
@@ -520,7 +520,7 @@ window.INVITADOS = {
     "saludo": "Miriam",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Hola, Miriam, esperamos puedas acompañarnos este día tan especial. Nos harías un gran favor si confirmas tu asistencia.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
     "confirmacion": "¡Hola! Soy Miriam y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
@@ -532,7 +532,7 @@ window.INVITADOS = {
     "saludo": "Iván",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Hola, Iván, esperamos puedas acompañarnos este día tan especial. Nos harías un gran favor si confirmas tu asistencia.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
     "confirmacion": "¡Hola! Soy Iván y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
@@ -544,7 +544,7 @@ window.INVITADOS = {
     "saludo": "Diana",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Hola, Diana, esperamos puedas acompañarnos este día tan especial. Nos harías un gran favor si confirmas tu asistencia.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
     "confirmacion": "¡Hola! Soy Diana Amezcua y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
@@ -556,7 +556,7 @@ window.INVITADOS = {
     "saludo": "Dani",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Hola, Dani, esperamos puedas acompañarnos este día tan especial. Nos harías un gran favor si confirmas tu asistencia.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
     "confirmacion": "¡Hola! Soy Dani y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
@@ -568,7 +568,7 @@ window.INVITADOS = {
     "saludo": "Meli",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Hola, Meli, esperamos puedas acompañarnos este día tan especial. Nos harías un gran favor si confirmas tu asistencia.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
     "confirmacion": "¡Hola! Soy Meli y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
@@ -580,7 +580,7 @@ window.INVITADOS = {
     "saludo": "Adrian",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Hola, Adrian, esperamos puedas acompañarnos este día tan especial. Nos harías un gran favor si confirmas tu asistencia.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
     "confirmacion": "¡Hola! Soy Adrian y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
@@ -592,7 +592,7 @@ window.INVITADOS = {
     "saludo": "Joel",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Hola, Joel, esperamos puedas acompañarnos este día tan especial. Nos harías un gran favor si confirmas tu asistencia.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
     "confirmacion": "¡Hola! Soy Joel y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
@@ -604,7 +604,7 @@ window.INVITADOS = {
     "saludo": "Angie",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Hola, Angie, esperamos puedas acompañarnos este día tan especial. Nos harías un gran favor si confirmas tu asistencia.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
     "confirmacion": "¡Hola! Soy Angie y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
@@ -616,7 +616,7 @@ window.INVITADOS = {
     "saludo": "Adriana",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Hola, Adriana, esperamos puedas acompañarnos este día tan especial. Nos harías un gran favor si confirmas tu asistencia.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
     "confirmacion": "¡Hola! Soy Adriana Llamas y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
@@ -628,7 +628,7 @@ window.INVITADOS = {
     "saludo": "Omar",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Hola, Omar, esperamos puedas acompañarnos este día tan especial. Nos harías un gran favor si confirmas tu asistencia.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
     "confirmacion": "¡Hola! Soy Omar Peraza y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
@@ -640,7 +640,7 @@ window.INVITADOS = {
     "saludo": "Sara",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Hola, Sara, esperamos puedas acompañarnos este día tan especial. Nos harías un gran favor si confirmas tu asistencia.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
     "confirmacion": "¡Hola! Soy Sara Cardona y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
@@ -652,8 +652,8 @@ window.INVITADOS = {
     "saludo": "Fany",
     "pases": 2,
     "pasesTexto": "Hemos reservado 2 lugares a tu nombre.",
-    "mensaje": "Hola, Fany, esperamos puedas acompañarnos este día tan especial junto a tu acompañante Luis. Nos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Fany Rizo y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante Luis.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
+    "confirmacion": "¡Hola! Soy Fany Rizo y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante.",
     "acompañantes": [
       {
         "id": 58,
@@ -669,7 +669,7 @@ window.INVITADOS = {
     "saludo": "Francisco",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Hola, Francisco, esperamos puedas acompañarnos este día tan especial. Nos harías un gran favor si confirmas tu asistencia.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
     "confirmacion": "¡Hola! Soy Francisco y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
@@ -681,7 +681,7 @@ window.INVITADOS = {
     "saludo": "Daniel",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Hola, Daniel, esperamos puedas acompañarnos este día tan especial. Nos harías un gran favor si confirmas tu asistencia.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
     "confirmacion": "¡Hola! Soy Daniel y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
@@ -693,7 +693,7 @@ window.INVITADOS = {
     "saludo": "Marco",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Hola, Marco, esperamos puedas acompañarnos este día tan especial. Nos harías un gran favor si confirmas tu asistencia.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
     "confirmacion": "¡Hola! Soy Marco y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
@@ -705,7 +705,7 @@ window.INVITADOS = {
     "saludo": "Dra Trini",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Hola, Dra Trini, esperamos puedas acompañarnos este día tan especial. Nos harías un gran favor si confirmas tu asistencia.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
     "confirmacion": "¡Hola! Soy Dra Trini y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
@@ -717,7 +717,7 @@ window.INVITADOS = {
     "saludo": "Dr Pedro",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Hola, Dr Pedro, esperamos puedas acompañarnos este día tan especial. Nos harías un gran favor si confirmas tu asistencia.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
     "confirmacion": "¡Hola! Soy Dr Pedro y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
@@ -729,7 +729,7 @@ window.INVITADOS = {
     "saludo": "Dra Itzel",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Hola, Dra Itzel, esperamos puedas acompañarnos este día tan especial. Nos harías un gran favor si confirmas tu asistencia.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
     "confirmacion": "¡Hola! Soy Dra Itzel y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
@@ -741,7 +741,7 @@ window.INVITADOS = {
     "saludo": "Dra Marina",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Hola, Dra Marina, esperamos puedas acompañarnos este día tan especial. Nos harías un gran favor si confirmas tu asistencia.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
     "confirmacion": "¡Hola! Soy Dra Marina y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
@@ -753,7 +753,7 @@ window.INVITADOS = {
     "saludo": "Dr Cristian",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Hola, Dr Cristian, esperamos puedas acompañarnos este día tan especial. Nos harías un gran favor si confirmas tu asistencia.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
     "confirmacion": "¡Hola! Soy Dr Cristian y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
@@ -765,7 +765,7 @@ window.INVITADOS = {
     "saludo": "Arahi",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Hola, Arahi, esperamos puedas acompañarnos este día tan especial. Nos harías un gran favor si confirmas tu asistencia.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
     "confirmacion": "¡Hola! Soy Arahi Gaspar y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
@@ -777,7 +777,7 @@ window.INVITADOS = {
     "saludo": "Brian",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Hola, Brian, esperamos puedas acompañarnos este día tan especial. Nos harías un gran favor si confirmas tu asistencia.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
     "confirmacion": "¡Hola! Soy Brian y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
@@ -789,7 +789,7 @@ window.INVITADOS = {
     "saludo": "Pepe",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Hola, Pepe, esperamos puedas acompañarnos este día tan especial. Nos harías un gran favor si confirmas tu asistencia.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
     "confirmacion": "¡Hola! Soy Pepe Becerra y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
@@ -801,7 +801,7 @@ window.INVITADOS = {
     "saludo": "Miriam",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Hola, Miriam, esperamos puedas acompañarnos este día tan especial. Nos harías un gran favor si confirmas tu asistencia.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
     "confirmacion": "¡Hola! Soy Miriam Guillen y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
@@ -813,8 +813,8 @@ window.INVITADOS = {
     "saludo": "Caro",
     "pases": 2,
     "pasesTexto": "Hemos reservado 2 lugares a tu nombre.",
-    "mensaje": "Hola, Caro, esperamos puedas acompañarnos este día tan especial junto a tu acompañante Cyntia. Nos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Caro Velarde y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante Cyntia.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
+    "confirmacion": "¡Hola! Soy Caro Velarde y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante.",
     "acompañantes": [
       {
         "id": 71,
@@ -830,7 +830,7 @@ window.INVITADOS = {
     "saludo": "Marya",
     "pases": 2,
     "pasesTexto": "Hemos reservado 2 lugares a tu nombre.",
-    "mensaje": "Hola, Marya, esperamos puedas acompañarnos este día tan especial junto a tu acompañante. Nos harías un gran favor si confirmas tu asistencia.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
     "confirmacion": "¡Hola! Soy Marya y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante.",
     "acompañantes": [
       {
@@ -846,7 +846,7 @@ window.INVITADOS = {
     "saludo": "Alejandro",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Hola, Alejandro, esperamos puedas acompañarnos este día tan especial. Nos harías un gran favor si confirmas tu asistencia.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
     "confirmacion": "¡Hola! Soy Alejandro Mora Fernandez y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
@@ -858,7 +858,7 @@ window.INVITADOS = {
     "saludo": "Patricia",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Hola, Patricia, esperamos puedas acompañarnos este día tan especial. Nos harías un gran favor si confirmas tu asistencia.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
     "confirmacion": "¡Hola! Soy Patricia Gonzalez Lambaren y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
@@ -870,8 +870,8 @@ window.INVITADOS = {
     "saludo": "Jose",
     "pases": 2,
     "pasesTexto": "Hemos reservado 2 lugares a tu nombre.",
-    "mensaje": "Hola, Jose, esperamos puedas acompañarnos este día tan especial junto a tu acompañante Gaby. Nos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Jose Eduardo Mora Gonzalez y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante Gaby.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
+    "confirmacion": "¡Hola! Soy Jose Eduardo Mora Gonzalez y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante.",
     "acompañantes": [
       {
         "id": 78,
@@ -887,7 +887,7 @@ window.INVITADOS = {
     "saludo": "Ulises",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Hola, Ulises, esperamos puedas acompañarnos este día tan especial. Nos harías un gran favor si confirmas tu asistencia.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
     "confirmacion": "¡Hola! Soy Ulises Mora Gonzalez y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
@@ -899,7 +899,7 @@ window.INVITADOS = {
     "saludo": "Teresa",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Hola, Teresa, esperamos puedas acompañarnos este día tan especial. Nos harías un gran favor si confirmas tu asistencia.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
     "confirmacion": "¡Hola! Soy Teresa Lambaren y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
@@ -911,7 +911,7 @@ window.INVITADOS = {
     "saludo": "Tia Claudia",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Hola, Tia Claudia, esperamos puedas acompañarnos este día tan especial. Nos harías un gran favor si confirmas tu asistencia.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
     "confirmacion": "¡Hola! Soy Tia Claudia y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
@@ -923,7 +923,7 @@ window.INVITADOS = {
     "saludo": "Tio Gus",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Hola, Tio Gus, esperamos puedas acompañarnos este día tan especial. Nos harías un gran favor si confirmas tu asistencia.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
     "confirmacion": "¡Hola! Soy Tio Gus y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
@@ -935,7 +935,7 @@ window.INVITADOS = {
     "saludo": "Dafne",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Hola, Dafne, esperamos puedas acompañarnos este día tan especial. Nos harías un gran favor si confirmas tu asistencia.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
     "confirmacion": "¡Hola! Soy Dafne y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
@@ -947,7 +947,7 @@ window.INVITADOS = {
     "saludo": "Sophie",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Hola, Sophie, esperamos puedas acompañarnos este día tan especial. Nos harías un gran favor si confirmas tu asistencia.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
     "confirmacion": "¡Hola! Soy Sophie y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
@@ -959,7 +959,7 @@ window.INVITADOS = {
     "saludo": "Tia Susana",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Hola, Tia Susana, esperamos puedas acompañarnos este día tan especial. Nos harías un gran favor si confirmas tu asistencia.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
     "confirmacion": "¡Hola! Soy Tia Susana y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
@@ -971,7 +971,7 @@ window.INVITADOS = {
     "saludo": "Tia Teresa",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Hola, Tia Teresa, esperamos puedas acompañarnos este día tan especial. Nos harías un gran favor si confirmas tu asistencia.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
     "confirmacion": "¡Hola! Soy Tia Teresa y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
@@ -983,8 +983,8 @@ window.INVITADOS = {
     "saludo": "Karla",
     "pases": 2,
     "pasesTexto": "Hemos reservado 2 lugares a tu nombre.",
-    "mensaje": "Hola, Karla, esperamos puedas acompañarnos este día tan especial junto a tu acompañante Zoe. Nos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Karla y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante Zoe.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
+    "confirmacion": "¡Hola! Soy Karla y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante.",
     "acompañantes": [
       {
         "id": 88,
@@ -1000,8 +1000,8 @@ window.INVITADOS = {
     "saludo": "Mariana",
     "pases": 2,
     "pasesTexto": "Hemos reservado 2 lugares a tu nombre.",
-    "mensaje": "Hola, Mariana, esperamos puedas acompañarnos este día tan especial junto a tu acompañante Emilio. Nos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Mariana y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante Emilio.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
+    "confirmacion": "¡Hola! Soy Mariana y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante.",
     "acompañantes": [
       {
         "id": 90,
@@ -1017,8 +1017,8 @@ window.INVITADOS = {
     "saludo": "Carlos",
     "pases": 2,
     "pasesTexto": "Hemos reservado 2 lugares a tu nombre.",
-    "mensaje": "Hola, Carlos, esperamos puedas acompañarnos este día tan especial junto a tu acompañante Jimena. Nos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Carlos y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante Jimena.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
+    "confirmacion": "¡Hola! Soy Carlos y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante.",
     "acompañantes": [
       {
         "id": 92,
@@ -1034,8 +1034,8 @@ window.INVITADOS = {
     "saludo": "Fer",
     "pases": 2,
     "pasesTexto": "Hemos reservado 2 lugares a tu nombre.",
-    "mensaje": "Hola, Fer, esperamos puedas acompañarnos este día tan especial junto a tu acompañante Atziri. Nos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Fer y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante Atziri.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
+    "confirmacion": "¡Hola! Soy Fer y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante.",
     "acompañantes": [
       {
         "id": 94,
@@ -1051,7 +1051,7 @@ window.INVITADOS = {
     "saludo": "Tia Elisa",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Hola, Tia Elisa, esperamos puedas acompañarnos este día tan especial. Nos harías un gran favor si confirmas tu asistencia.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
     "confirmacion": "¡Hola! Soy Tia Elisa y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
@@ -1063,7 +1063,7 @@ window.INVITADOS = {
     "saludo": "Miguel",
     "pases": 2,
     "pasesTexto": "Hemos reservado 2 lugares a tu nombre.",
-    "mensaje": "Hola, Miguel, esperamos puedas acompañarnos este día tan especial junto a tu acompañante. Nos harías un gran favor si confirmas tu asistencia.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
     "confirmacion": "¡Hola! Soy Miguel (Pollo) y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante.",
     "acompañantes": [
       {
@@ -1079,8 +1079,8 @@ window.INVITADOS = {
     "saludo": "Tio Pedro",
     "pases": 2,
     "pasesTexto": "Hemos reservado 2 lugares a tu nombre.",
-    "mensaje": "Hola, Tio Pedro, esperamos puedas acompañarnos este día tan especial junto a tu acompañante Tia Blanca. Nos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Tio Pedro y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante Tia Blanca.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
+    "confirmacion": "¡Hola! Soy Tio Pedro y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante.",
     "acompañantes": [
       {
         "id": 99,
@@ -1096,8 +1096,8 @@ window.INVITADOS = {
     "saludo": "Tio Miguel",
     "pases": 4,
     "pasesTexto": "Hemos reservado 4 lugares a tu nombre.",
-    "mensaje": "Hola, Tio Miguel, esperamos puedas acompañarnos este día tan especial junto a tus acompañantes Tia Edith, Vaitiare y Valeria. Nos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Tio Miguel Gonzalez y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mis acompañantes Tia Edith, Vaitiare y Valeria.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
+    "confirmacion": "¡Hola! Soy Tio Miguel Gonzalez y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mis acompañantes.",
     "acompañantes": [
       {
         "id": 101,
@@ -1121,7 +1121,7 @@ window.INVITADOS = {
     "saludo": "Tia Luz",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Hola, Tia Luz, esperamos puedas acompañarnos este día tan especial. Nos harías un gran favor si confirmas tu asistencia.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
     "confirmacion": "¡Hola! Soy Tia Luz y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
@@ -1133,7 +1133,7 @@ window.INVITADOS = {
     "saludo": "Adrian",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Hola, Adrian, esperamos puedas acompañarnos este día tan especial. Nos harías un gran favor si confirmas tu asistencia.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
     "confirmacion": "¡Hola! Soy Adrian y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
@@ -1145,7 +1145,7 @@ window.INVITADOS = {
     "saludo": "Melisa",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Hola, Melisa, esperamos puedas acompañarnos este día tan especial. Nos harías un gran favor si confirmas tu asistencia.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
     "confirmacion": "¡Hola! Soy Melisa y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
@@ -1157,8 +1157,8 @@ window.INVITADOS = {
     "saludo": "Abril",
     "pases": 2,
     "pasesTexto": "Hemos reservado 2 lugares a tu nombre.",
-    "mensaje": "Hola, Abril, esperamos puedas acompañarnos este día tan especial junto a tu acompañante Abraham. Nos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Abril y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante Abraham.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
+    "confirmacion": "¡Hola! Soy Abril y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante.",
     "acompañantes": [
       {
         "id": 108,
@@ -1174,7 +1174,7 @@ window.INVITADOS = {
     "saludo": "Fede",
     "pases": 2,
     "pasesTexto": "Hemos reservado 2 lugares a tu nombre.",
-    "mensaje": "Hola, Fede, esperamos puedas acompañarnos este día tan especial junto a tu acompañante. Nos harías un gran favor si confirmas tu asistencia.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
     "confirmacion": "¡Hola! Soy Fede Mora y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante.",
     "acompañantes": [
       {
@@ -1190,7 +1190,7 @@ window.INVITADOS = {
     "saludo": "Tia Adriana",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Hola, Tia Adriana, esperamos puedas acompañarnos este día tan especial. Nos harías un gran favor si confirmas tu asistencia.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
     "confirmacion": "¡Hola! Soy Tia Adriana y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
@@ -1202,7 +1202,7 @@ window.INVITADOS = {
     "saludo": "Sebastian",
     "pases": 2,
     "pasesTexto": "Hemos reservado 2 lugares a tu nombre.",
-    "mensaje": "Hola, Sebastian, esperamos puedas acompañarnos este día tan especial junto a tu acompañante. Nos harías un gran favor si confirmas tu asistencia.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
     "confirmacion": "¡Hola! Soy Sebastian y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante.",
     "acompañantes": [
       {
@@ -1218,7 +1218,7 @@ window.INVITADOS = {
     "saludo": "Dominic",
     "pases": 2,
     "pasesTexto": "Hemos reservado 2 lugares a tu nombre.",
-    "mensaje": "Hola, Dominic, esperamos puedas acompañarnos este día tan especial junto a tu acompañante. Nos harías un gran favor si confirmas tu asistencia.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
     "confirmacion": "¡Hola! Soy Dominic y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante.",
     "acompañantes": [
       {
@@ -1234,7 +1234,7 @@ window.INVITADOS = {
     "saludo": "Tia Sandra",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Hola, Tia Sandra, esperamos puedas acompañarnos este día tan especial. Nos harías un gran favor si confirmas tu asistencia.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
     "confirmacion": "¡Hola! Soy Tia Sandra y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
@@ -1246,7 +1246,7 @@ window.INVITADOS = {
     "saludo": "Tio Mati",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Hola, Tio Mati, esperamos puedas acompañarnos este día tan especial. Nos harías un gran favor si confirmas tu asistencia.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
     "confirmacion": "¡Hola! Soy Tio Mati y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
@@ -1258,7 +1258,7 @@ window.INVITADOS = {
     "saludo": "Alvaro",
     "pases": 2,
     "pasesTexto": "Hemos reservado 2 lugares a tu nombre.",
-    "mensaje": "Hola, Alvaro, esperamos puedas acompañarnos este día tan especial junto a tu acompañante. Nos harías un gran favor si confirmas tu asistencia.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
     "confirmacion": "¡Hola! Soy Alvaro y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante.",
     "acompañantes": [
       {
@@ -1274,7 +1274,7 @@ window.INVITADOS = {
     "saludo": "Sergio",
     "pases": 2,
     "pasesTexto": "Hemos reservado 2 lugares a tu nombre.",
-    "mensaje": "Hola, Sergio, esperamos puedas acompañarnos este día tan especial junto a tu acompañante. Nos harías un gran favor si confirmas tu asistencia.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
     "confirmacion": "¡Hola! Soy Sergio y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante.",
     "acompañantes": [
       {
@@ -1290,7 +1290,7 @@ window.INVITADOS = {
     "saludo": "Lalito",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Hola, Lalito, esperamos puedas acompañarnos este día tan especial. Nos harías un gran favor si confirmas tu asistencia.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
     "confirmacion": "¡Hola! Soy Lalito y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
@@ -1302,7 +1302,7 @@ window.INVITADOS = {
     "saludo": "Padrino Rico",
     "pases": 2,
     "pasesTexto": "Hemos reservado 2 lugares a tu nombre.",
-    "mensaje": "Hola, Padrino Rico, esperamos puedas acompañarnos este día tan especial junto a tu acompañante. Nos harías un gran favor si confirmas tu asistencia.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
     "confirmacion": "¡Hola! Soy Padrino Rico y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante.",
     "acompañantes": [
       {
@@ -1318,7 +1318,7 @@ window.INVITADOS = {
     "saludo": "Ricardito",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Hola, Ricardito, esperamos puedas acompañarnos este día tan especial. Nos harías un gran favor si confirmas tu asistencia.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
     "confirmacion": "¡Hola! Soy Ricardito y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
@@ -1330,7 +1330,7 @@ window.INVITADOS = {
     "saludo": "Angel",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Hola, Angel, esperamos puedas acompañarnos este día tan especial. Nos harías un gran favor si confirmas tu asistencia.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
     "confirmacion": "¡Hola! Soy Angel y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
@@ -1342,7 +1342,7 @@ window.INVITADOS = {
     "saludo": "Richi",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Hola, Richi, esperamos puedas acompañarnos este día tan especial. Nos harías un gran favor si confirmas tu asistencia.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
     "confirmacion": "¡Hola! Soy Richi y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
@@ -1354,7 +1354,7 @@ window.INVITADOS = {
     "saludo": "Anahi",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Hola, Anahi, esperamos puedas acompañarnos este día tan especial. Nos harías un gran favor si confirmas tu asistencia.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
     "confirmacion": "¡Hola! Soy Anahi y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
@@ -1366,7 +1366,7 @@ window.INVITADOS = {
     "saludo": "Hector",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Hola, Hector, esperamos puedas acompañarnos este día tan especial. Nos harías un gran favor si confirmas tu asistencia.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
     "confirmacion": "¡Hola! Soy Hector y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
@@ -1378,7 +1378,7 @@ window.INVITADOS = {
     "saludo": "Hugo",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Hola, Hugo, esperamos puedas acompañarnos este día tan especial. Nos harías un gran favor si confirmas tu asistencia.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
     "confirmacion": "¡Hola! Soy Hugo y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
@@ -1390,7 +1390,7 @@ window.INVITADOS = {
     "saludo": "Tito",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Hola, Tito, esperamos puedas acompañarnos este día tan especial. Nos harías un gran favor si confirmas tu asistencia.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
     "confirmacion": "¡Hola! Soy Tito y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
@@ -1402,8 +1402,8 @@ window.INVITADOS = {
     "saludo": "Roy",
     "pases": 2,
     "pasesTexto": "Hemos reservado 2 lugares a tu nombre.",
-    "mensaje": "Hola, Roy, esperamos puedas acompañarnos este día tan especial junto a tu acompañante Kitti. Nos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Roy y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante Kitti.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
+    "confirmacion": "¡Hola! Soy Roy y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante.",
     "acompañantes": [
       {
         "id": 133,
@@ -1419,8 +1419,8 @@ window.INVITADOS = {
     "saludo": "Chiva",
     "pases": 3,
     "pasesTexto": "Hemos reservado 3 lugares a tu nombre.",
-    "mensaje": "Hola, Chiva, esperamos puedas acompañarnos este día tan especial junto a tus acompañantes Yoli y Aris. Nos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Chiva y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mis acompañantes Yoli y Aris.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
+    "confirmacion": "¡Hola! Soy Chiva y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mis acompañantes.",
     "acompañantes": [
       {
         "id": 135,
@@ -1440,8 +1440,8 @@ window.INVITADOS = {
     "saludo": "Edson",
     "pases": 2,
     "pasesTexto": "Hemos reservado 2 lugares a tu nombre.",
-    "mensaje": "Hola, Edson, esperamos puedas acompañarnos este día tan especial junto a tu acompañante Lesli. Nos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Edson y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante Lesli.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
+    "confirmacion": "¡Hola! Soy Edson y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante.",
     "acompañantes": [
       {
         "id": 138,
@@ -1457,8 +1457,8 @@ window.INVITADOS = {
     "saludo": "Matu",
     "pases": 2,
     "pasesTexto": "Hemos reservado 2 lugares a tu nombre.",
-    "mensaje": "Hola, Matu, esperamos puedas acompañarnos este día tan especial junto a tu acompañante Priscilla. Nos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Matu y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante Priscilla.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
+    "confirmacion": "¡Hola! Soy Matu y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante.",
     "acompañantes": [
       {
         "id": 140,
@@ -1474,7 +1474,7 @@ window.INVITADOS = {
     "saludo": "Pulido",
     "pases": 2,
     "pasesTexto": "Hemos reservado 2 lugares a tu nombre.",
-    "mensaje": "Hola, Pulido, esperamos puedas acompañarnos este día tan especial junto a tu acompañante. Nos harías un gran favor si confirmas tu asistencia.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
     "confirmacion": "¡Hola! Soy Pulido y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante.",
     "acompañantes": [
       {
@@ -1490,7 +1490,7 @@ window.INVITADOS = {
     "saludo": "Efra",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Hola, Efra, esperamos puedas acompañarnos este día tan especial. Nos harías un gran favor si confirmas tu asistencia.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
     "confirmacion": "¡Hola! Soy Efra y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
@@ -1502,8 +1502,8 @@ window.INVITADOS = {
     "saludo": "Messi",
     "pases": 2,
     "pasesTexto": "Hemos reservado 2 lugares a tu nombre.",
-    "mensaje": "Hola, Messi, esperamos puedas acompañarnos este día tan especial junto a tu acompañante Patsi. Nos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Messi y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante Patsi.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
+    "confirmacion": "¡Hola! Soy Messi y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante.",
     "acompañantes": [
       {
         "id": 145,
@@ -1519,8 +1519,8 @@ window.INVITADOS = {
     "saludo": "Afri",
     "pases": 2,
     "pasesTexto": "Hemos reservado 2 lugares a tu nombre.",
-    "mensaje": "Hola, Afri, esperamos puedas acompañarnos este día tan especial junto a tu acompañante Paty. Nos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Afri y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante Paty.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
+    "confirmacion": "¡Hola! Soy Afri y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante.",
     "acompañantes": [
       {
         "id": 147,
@@ -1536,7 +1536,7 @@ window.INVITADOS = {
     "saludo": "Roy",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Hola, Roy, esperamos puedas acompañarnos este día tan especial. Nos harías un gran favor si confirmas tu asistencia.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
     "confirmacion": "¡Hola! Soy Roy Franco y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
@@ -1548,7 +1548,7 @@ window.INVITADOS = {
     "saludo": "Ceci",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Hola, Ceci, esperamos puedas acompañarnos este día tan especial. Nos harías un gran favor si confirmas tu asistencia.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
     "confirmacion": "¡Hola! Soy Ceci y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
@@ -1560,7 +1560,7 @@ window.INVITADOS = {
     "saludo": "Atziri",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Hola, Atziri, esperamos puedas acompañarnos este día tan especial. Nos harías un gran favor si confirmas tu asistencia.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
     "confirmacion": "¡Hola! Soy Atziri y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   }
