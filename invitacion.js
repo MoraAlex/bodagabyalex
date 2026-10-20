@@ -65,8 +65,11 @@ function obtenerTokenDeURL() {
 }
 
 function obtenerInvitado() {
-    const token = obtenerTokenDeURL();
+    const rawToken = obtenerTokenDeURL();
     const lista = window.INVITADOS || {};
+    const alias = window.INVITADOS_ALIAS || {};
+
+    const token = alias[rawToken] || rawToken;
 
     // Búsqueda directa por token (clave del diccionario)
     if (token && !token.startsWith("id:") && lista[token]) {
@@ -124,40 +127,23 @@ function personalizarInvitacion() {
     const invitado = obtenerInvitado();
 
     const envelopeGreeting = document.getElementById("envelope-greeting");
-    const envelopePasses = document.getElementById("envelope-passes");
     if (envelopeGreeting) {
-        envelopeGreeting.textContent = invitado.saludo
-            ? `Hola,\u00A0 ${invitado.saludo}`
-            : "Estás invitado";
-    }
-    if (envelopePasses) {
-        if (invitado.pases) {
-            envelopePasses.textContent = textoBoletos(invitado.pases);
-        } else if (invitado.pasesTexto) {
-            envelopePasses.textContent = invitado.pasesTexto;
+        if (invitado && invitado.saludo) {
+            envelopeGreeting.textContent = `Hola, ${invitado.saludo}`;
+            envelopeGreeting.classList.remove("envelope__greeting--long", "envelope__greeting--xlong");
+            if (invitado.saludo.length > 34) {
+                envelopeGreeting.classList.add("envelope__greeting--xlong");
+            } else if (invitado.saludo.length > 22) {
+                envelopeGreeting.classList.add("envelope__greeting--long");
+            }
         } else {
-            envelopePasses.textContent = "Acompáñanos a celebrar";
-        }
-    }
-
-    const insideGreeting = document.getElementById("envelope-inside-greeting");
-    const insidePasses = document.getElementById("envelope-inside-passes");
-    if (insideGreeting) {
-        insideGreeting.textContent = invitado.saludo
-            ? `Hola, ${invitado.saludo}`
-            : "Nos encantaría contar contigo";
-    }
-    if (insidePasses) {
-        if (invitado.pases) {
-            insidePasses.textContent = textoBoletos(invitado.pases);
-        } else if (invitado.pasesTexto) {
-            insidePasses.textContent = invitado.pasesTexto;
+            envelopeGreeting.textContent = "Estás invitado";
         }
     }
 
     const saludo = document.getElementById("saludo-invitado");
     if (saludo) {
-        saludo.textContent = invitado.saludo
+        saludo.textContent = (invitado && invitado.saludo)
             ? `Hola, ${invitado.saludo}`
             : "Nos encantaría contar contigo";
     }

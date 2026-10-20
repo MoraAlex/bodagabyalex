@@ -278,6 +278,16 @@
                 -moz-osx-font-smoothing: grayscale;
                 transform: rotate(-1.5deg); /* Inclinación manuscrita orgánica como en la foto */
             }
+            .envelope__greeting--long {
+                font-size: clamp(1.85rem, 6.2vw, 2.6rem);
+                line-height: 1.22;
+                word-spacing: 0.3em;
+            }
+            .envelope__greeting--xlong {
+                font-size: clamp(1.5rem, 5vw, 2.1rem);
+                line-height: 1.25;
+                word-spacing: 0.25em;
+            }
             .envelope__divider {
                 display: flex;
                 align-items: center;
@@ -432,8 +442,6 @@
                         </div>
                         <div class="envelope__card" id="envelope-card">
                             <p class="envelope__greeting" id="envelope-greeting">Estás invitado</p>
-                            <div class="envelope__divider" aria-hidden="true"><span class="envelope__divider-knot">✦</span></div>
-                            <p class="envelope__passes" id="envelope-passes">Acompáñanos a celebrar</p>
                         </div>
                         <div class="envelope__hint" id="envelope-hint" aria-hidden="true">
                             <span>Desliza para abrir</span>
@@ -696,8 +704,10 @@ Nos harías un gran favor si confirmas tu asistencia.</p>
                     <h4 class="font-serif text-2xl text-terracota-otonal">
                         Ceremonia Religiosa
                     </h4>
-                    <p class="text-surface-dark/75 text-terracota-otonal">
-                        Recepción 17:30 hrs<br/>Capilla de la Virgen del Rosario<br/>en Hotel Hacienda la Magdalena
+                    <p class="text-surface-dark/75 leading-relaxed">
+                        Recepción 17:30 hrs<br />
+                        Capilla de la Virgen del Rosario<br />
+                        En Hotel Hacienda la Magdalena
                     </p>
                     <a
                         class="inline-flex items-center gap-2 text-xs font-bold tracking-widest text-amarillo-calido border-b border-amarillo-calido/40 pb-1 hover:border-amarillo-calido transition-all"

@@ -1,12 +1,12 @@
 // ARCHIVO GENERADO por generar_invitados.py — no editar a mano.
-// Edita badinvites.txt y vuelve a correr: python3 generar_invitados.py
+// Edita badinvites.txt o Boda religiosa - Hoja 1.csv y vuelve a correr: python3 generar_invitados.py
 window.INVITADOS = {
   "gcx0ve6": {
     "id": 1,
     "slug": "juan-saucedo",
     "token": "gcx0ve6",
     "nombre": "Juan Saucedo",
-    "saludo": "Juan",
+    "saludo": "Juan Saucedo",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
     "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
@@ -15,14 +15,14 @@ window.INVITADOS = {
   },
   "ke60d6p": {
     "id": 2,
-    "slug": "guadalupe",
+    "slug": "janette-mora",
     "token": "ke60d6p",
-    "nombre": "Guadalupe",
-    "saludo": "Guadalupe",
+    "nombre": "Janette Mora",
+    "saludo": "Janette Mora",
     "pases": 3,
     "pasesTexto": "Hemos reservado 3 lugares a tu nombre.",
     "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Guadalupe y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mis acompañantes.",
+    "confirmacion": "¡Hola! Soy Janette Mora y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mis acompañantes.",
     "acompañantes": [
       {
         "id": 3,
@@ -36,18 +36,26 @@ window.INVITADOS = {
   },
   "z43913d": {
     "id": 4,
-    "slug": "moni",
+    "slug": "monica-padilla-y-josue-moreno",
     "token": "z43913d",
-    "nombre": "Moni",
-    "saludo": "Moni",
-    "pases": 2,
-    "pasesTexto": "Hemos reservado 2 lugares a tu nombre.",
+    "nombre": "Mónica Padilla",
+    "saludo": "Mónica Padilla y Josué Moreno",
+    "pases": 4,
+    "pasesTexto": "Hemos reservado 4 lugares a tu nombre.",
     "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Moni y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante.",
+    "confirmacion": "¡Hola! Soy Mónica Padilla y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mis acompañantes.",
     "acompañantes": [
       {
         "id": 5,
         "nombre": "Josue"
+      },
+      {
+        "id": 153,
+        "nombre": "Regina Moreno"
+      },
+      {
+        "id": 154,
+        "nombre": "Joshua Moreno"
       }
     ]
   },
@@ -56,568 +64,423 @@ window.INVITADOS = {
     "slug": "brenda-saucedo",
     "token": "v90rc5d",
     "nombre": "Brenda Saucedo",
-    "saludo": "Brenda",
-    "pases": 2,
-    "pasesTexto": "Hemos reservado 2 lugares a tu nombre.",
+    "saludo": "Brenda Saucedo",
+    "pases": 3,
+    "pasesTexto": "Hemos reservado 3 lugares a tu nombre.",
     "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Brenda Saucedo y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante.",
+    "confirmacion": "¡Hola! Soy Brenda Saucedo y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mis acompañantes.",
     "acompañantes": [
       {
         "id": 8,
         "nombre": "Cris"
+      },
+      {
+        "id": 155,
+        "nombre": "Ariadne Ambriz"
       }
     ]
   },
   "ppcaeyj": {
     "id": 9,
-    "slug": "fer-saucedo",
+    "slug": "fernanda-saucedo",
     "token": "ppcaeyj",
-    "nombre": "Fer Saucedo",
-    "saludo": "Fer",
+    "nombre": "Fernanda Saucedo",
+    "saludo": "Fernanda Saucedo",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
     "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Fer Saucedo y confirmo mi asistencia a la boda de Gaby y Alex.",
+    "confirmacion": "¡Hola! Soy Fernanda Saucedo y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
   "bt6269j": {
     "id": 10,
-    "slug": "tia-pili",
+    "slug": "liliana-patino",
     "token": "bt6269j",
-    "nombre": "Tia Pili",
-    "saludo": "Tia Pili",
-    "pases": 1,
-    "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
+    "nombre": "Liliana Patiño",
+    "saludo": "Liliana Patiño",
+    "pases": 3,
+    "pasesTexto": "Hemos reservado 3 lugares a tu nombre.",
     "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Tia Pili y confirmo mi asistencia a la boda de Gaby y Alex.",
-    "acompañantes": []
-  },
-  "mpemhqy": {
-    "id": 11,
-    "slug": "uriel",
-    "token": "mpemhqy",
-    "nombre": "Uriel",
-    "saludo": "Uriel",
-    "pases": 1,
-    "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Uriel y confirmo mi asistencia a la boda de Gaby y Alex.",
-    "acompañantes": []
+    "confirmacion": "¡Hola! Soy Liliana Patiño y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mis acompañantes.",
+    "acompañantes": [
+      {
+        "id": 11,
+        "nombre": "Uriel Pérez"
+      },
+      {
+        "id": 14,
+        "nombre": "Usiel Pérez"
+      }
+    ]
   },
   "hpz69cn": {
     "id": 12,
-    "slug": "elvia",
+    "slug": "elvia-perez-y-raul-hernandez",
     "token": "hpz69cn",
-    "nombre": "Elvia",
-    "saludo": "Elvia",
-    "pases": 1,
-    "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
+    "nombre": "Elvia Pérez",
+    "saludo": "Elvia Pérez y Raúl Hernández",
+    "pases": 2,
+    "pasesTexto": "Hemos reservado 2 lugares a tu nombre.",
     "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Elvia y confirmo mi asistencia a la boda de Gaby y Alex.",
-    "acompañantes": []
-  },
-  "xpwnyyo": {
-    "id": 13,
-    "slug": "raul",
-    "token": "xpwnyyo",
-    "nombre": "Raul",
-    "saludo": "Raul",
-    "pases": 1,
-    "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Raul y confirmo mi asistencia a la boda de Gaby y Alex.",
-    "acompañantes": []
-  },
-  "scsxb9g": {
-    "id": 14,
-    "slug": "usiel",
-    "token": "scsxb9g",
-    "nombre": "Usiel",
-    "saludo": "Usiel",
-    "pases": 1,
-    "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Usiel y confirmo mi asistencia a la boda de Gaby y Alex.",
-    "acompañantes": []
+    "confirmacion": "¡Hola! Soy Elvia Pérez y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante.",
+    "acompañantes": [
+      {
+        "id": 13,
+        "nombre": "Raúl Hernández"
+      }
+    ]
   },
   "5b5ij9h": {
     "id": 15,
-    "slug": "paco-padrino-de-xv",
+    "slug": "francisco-ortega-y-laura-leos",
     "token": "5b5ij9h",
-    "nombre": "Paco Padrino de XV",
-    "saludo": "Paco",
-    "pases": 1,
-    "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
+    "nombre": "Francisco Ortega",
+    "saludo": "Francisco Ortega y Laura Leos",
+    "pases": 2,
+    "pasesTexto": "Hemos reservado 2 lugares a tu nombre.",
     "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Paco Padrino de XV y confirmo mi asistencia a la boda de Gaby y Alex.",
-    "acompañantes": []
-  },
-  "f5a9c24": {
-    "id": 16,
-    "slug": "laura-madrina-de-xv",
-    "token": "f5a9c24",
-    "nombre": "Laura Madrina de XV",
-    "saludo": "Laura",
-    "pases": 1,
-    "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Laura Madrina de XV y confirmo mi asistencia a la boda de Gaby y Alex.",
-    "acompañantes": []
+    "confirmacion": "¡Hola! Soy Francisco Ortega y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante.",
+    "acompañantes": [
+      {
+        "id": 16,
+        "nombre": "Laura Leos"
+      }
+    ]
   },
   "rmo0xn1": {
     "id": 17,
-    "slug": "tio-armando",
+    "slug": "armando-patino",
     "token": "rmo0xn1",
-    "nombre": "Tio Armando",
-    "saludo": "Tio Armando",
+    "nombre": "Armando Patiño",
+    "saludo": "Armando Patiño",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
     "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Tio Armando y confirmo mi asistencia a la boda de Gaby y Alex.",
-    "acompañantes": []
-  },
-  "hev1r1y": {
-    "id": 18,
-    "slug": "memo",
-    "token": "hev1r1y",
-    "nombre": "Memo",
-    "saludo": "Memo",
-    "pases": 1,
-    "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Memo y confirmo mi asistencia a la boda de Gaby y Alex.",
+    "confirmacion": "¡Hola! Soy Armando Patiño y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
   "fy86a6s": {
     "id": 19,
-    "slug": "sarah",
+    "slug": "sara-garcia-y-guillermo-macedo",
     "token": "fy86a6s",
-    "nombre": "Sarah",
-    "saludo": "Sarah",
-    "pases": 1,
-    "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
+    "nombre": "Sara García",
+    "saludo": "Sara García y Guillermo Macedo",
+    "pases": 2,
+    "pasesTexto": "Hemos reservado 2 lugares a tu nombre.",
     "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Sarah y confirmo mi asistencia a la boda de Gaby y Alex.",
-    "acompañantes": []
-  },
-  "yh33gj1": {
-    "id": 20,
-    "slug": "roy",
-    "token": "yh33gj1",
-    "nombre": "Roy",
-    "saludo": "Roy",
-    "pases": 1,
-    "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Roy y confirmo mi asistencia a la boda de Gaby y Alex.",
-    "acompañantes": []
+    "confirmacion": "¡Hola! Soy Sara García y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante.",
+    "acompañantes": [
+      {
+        "id": 18,
+        "nombre": "Guillermo Macedo"
+      }
+    ]
   },
   "8gwekef": {
     "id": 21,
-    "slug": "edith",
+    "slug": "edith-centeno-y-rogelio-macedo",
     "token": "8gwekef",
-    "nombre": "Edith",
-    "saludo": "Edith",
-    "pases": 1,
-    "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
+    "nombre": "Edith Centeno",
+    "saludo": "Edith Centeno y Rogelio Macedo",
+    "pases": 2,
+    "pasesTexto": "Hemos reservado 2 lugares a tu nombre.",
     "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Edith y confirmo mi asistencia a la boda de Gaby y Alex.",
-    "acompañantes": []
+    "confirmacion": "¡Hola! Soy Edith Centeno y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante.",
+    "acompañantes": [
+      {
+        "id": 20,
+        "nombre": "Rogelio Macedo"
+      }
+    ]
   },
   "ho9o4c5": {
     "id": 22,
-    "slug": "bety",
+    "slug": "beatriz-macedo",
     "token": "ho9o4c5",
-    "nombre": "Bety",
-    "saludo": "Bety",
-    "pases": 1,
-    "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
+    "nombre": "Beatriz Macedo",
+    "saludo": "Beatriz Macedo",
+    "pases": 2,
+    "pasesTexto": "Hemos reservado 2 lugares a tu nombre.",
     "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Bety y confirmo mi asistencia a la boda de Gaby y Alex.",
-    "acompañantes": []
-  },
-  "emiapag": {
-    "id": 23,
-    "slug": "barbara",
-    "token": "emiapag",
-    "nombre": "Barbara",
-    "saludo": "Barbara",
-    "pases": 1,
-    "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Barbara y confirmo mi asistencia a la boda de Gaby y Alex.",
-    "acompañantes": []
+    "confirmacion": "¡Hola! Soy Beatriz Macedo y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante.",
+    "acompañantes": [
+      {
+        "id": 23,
+        "nombre": "Barbara Guzmán"
+      }
+    ]
   },
   "sb7ce63": {
     "id": 24,
-    "slug": "fany-mayorga",
+    "slug": "estefania-mayorga-y-juan-reyna",
     "token": "sb7ce63",
-    "nombre": "Fany Mayorga",
-    "saludo": "Fany",
-    "pases": 1,
-    "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
+    "nombre": "Estefania Mayorga",
+    "saludo": "Estefania Mayorga y Juan Reyna",
+    "pases": 6,
+    "pasesTexto": "Hemos reservado 6 lugares a tu nombre.",
     "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Fany Mayorga y confirmo mi asistencia a la boda de Gaby y Alex.",
-    "acompañantes": []
-  },
-  "6wmybi8": {
-    "id": 25,
-    "slug": "juan",
-    "token": "6wmybi8",
-    "nombre": "Juan",
-    "saludo": "Juan",
-    "pases": 1,
-    "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Juan y confirmo mi asistencia a la boda de Gaby y Alex.",
-    "acompañantes": []
-  },
-  "yxn37ch": {
-    "id": 26,
-    "slug": "miguel",
-    "token": "yxn37ch",
-    "nombre": "Miguel",
-    "saludo": "Miguel",
-    "pases": 1,
-    "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Miguel y confirmo mi asistencia a la boda de Gaby y Alex.",
-    "acompañantes": []
-  },
-  "re76bsq": {
-    "id": 27,
-    "slug": "mateo",
-    "token": "re76bsq",
-    "nombre": "Mateo",
-    "saludo": "Mateo",
-    "pases": 1,
-    "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Mateo y confirmo mi asistencia a la boda de Gaby y Alex.",
-    "acompañantes": []
+    "confirmacion": "¡Hola! Soy Estefania Mayorga y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mis acompañantes.",
+    "acompañantes": [
+      {
+        "id": 25,
+        "nombre": "Juan Reyna"
+      },
+      {
+        "id": 26,
+        "nombre": "Miguel Reyna"
+      },
+      {
+        "id": 27,
+        "nombre": "Mateo Reyna"
+      },
+      {
+        "id": 156,
+        "nombre": "Gael Reyna"
+      },
+      {
+        "id": 157,
+        "nombre": "Gianna Reyna"
+      }
+    ]
   },
   "56gqc97": {
     "id": 28,
-    "slug": "cinthia",
+    "slug": "cinthia-padilla-y-angel-salinas",
     "token": "56gqc97",
-    "nombre": "Cinthia",
-    "saludo": "Cinthia",
-    "pases": 1,
-    "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
+    "nombre": "Cinthia Padilla",
+    "saludo": "Cinthia Padilla y Ángel Salinas",
+    "pases": 2,
+    "pasesTexto": "Hemos reservado 2 lugares a tu nombre.",
     "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Cinthia y confirmo mi asistencia a la boda de Gaby y Alex.",
-    "acompañantes": []
-  },
-  "yejkt3x": {
-    "id": 29,
-    "slug": "angel",
-    "token": "yejkt3x",
-    "nombre": "Angel",
-    "saludo": "Angel",
-    "pases": 1,
-    "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Angel y confirmo mi asistencia a la boda de Gaby y Alex.",
-    "acompañantes": []
+    "confirmacion": "¡Hola! Soy Cinthia Padilla y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante.",
+    "acompañantes": [
+      {
+        "id": 29,
+        "nombre": "Angel Salinas"
+      }
+    ]
   },
   "dugm9js": {
     "id": 30,
-    "slug": "anairis",
+    "slug": "anairis-inda-y-christian-zepeda",
     "token": "dugm9js",
-    "nombre": "Anairis",
-    "saludo": "Anairis",
-    "pases": 1,
-    "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
+    "nombre": "Anairis Inda",
+    "saludo": "Anairis Inda y Christian Zepeda",
+    "pases": 2,
+    "pasesTexto": "Hemos reservado 2 lugares a tu nombre.",
     "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Anairis y confirmo mi asistencia a la boda de Gaby y Alex.",
-    "acompañantes": []
-  },
-  "gdonw7y": {
-    "id": 31,
-    "slug": "christian",
-    "token": "gdonw7y",
-    "nombre": "Christian",
-    "saludo": "Christian",
-    "pases": 1,
-    "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Christian y confirmo mi asistencia a la boda de Gaby y Alex.",
-    "acompañantes": []
+    "confirmacion": "¡Hola! Soy Anairis Inda y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante.",
+    "acompañantes": [
+      {
+        "id": 31,
+        "nombre": "Christian Zepeda"
+      }
+    ]
   },
   "w4ohrb9": {
     "id": 32,
-    "slug": "omar-arce",
+    "slug": "omar-arce-y-viridiana-duran",
     "token": "w4ohrb9",
     "nombre": "Omar Arce",
-    "saludo": "Omar",
-    "pases": 1,
-    "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
+    "saludo": "Omar Arce y Viridiana Durán",
+    "pases": 2,
+    "pasesTexto": "Hemos reservado 2 lugares a tu nombre.",
     "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Omar Arce y confirmo mi asistencia a la boda de Gaby y Alex.",
-    "acompañantes": []
-  },
-  "2215gtn": {
-    "id": 33,
-    "slug": "viri",
-    "token": "2215gtn",
-    "nombre": "Viri",
-    "saludo": "Viri",
-    "pases": 1,
-    "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Viri y confirmo mi asistencia a la boda de Gaby y Alex.",
-    "acompañantes": []
+    "confirmacion": "¡Hola! Soy Omar Arce y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante.",
+    "acompañantes": [
+      {
+        "id": 33,
+        "nombre": "Viridiana Durán"
+      }
+    ]
   },
   "lin1aov": {
     "id": 34,
-    "slug": "sergio-gallardo",
+    "slug": "sergio-gallardo-y-yadira-rodriguez",
     "token": "lin1aov",
     "nombre": "Sergio Gallardo",
-    "saludo": "Sergio",
-    "pases": 1,
-    "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
+    "saludo": "Sergio Gallardo y Yadira Rodríguez",
+    "pases": 2,
+    "pasesTexto": "Hemos reservado 2 lugares a tu nombre.",
     "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Sergio Gallardo y confirmo mi asistencia a la boda de Gaby y Alex.",
-    "acompañantes": []
-  },
-  "nya546a": {
-    "id": 35,
-    "slug": "yadira-gallardo",
-    "token": "nya546a",
-    "nombre": "Yadira Gallardo",
-    "saludo": "Yadira",
-    "pases": 1,
-    "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Yadira Gallardo y confirmo mi asistencia a la boda de Gaby y Alex.",
-    "acompañantes": []
+    "confirmacion": "¡Hola! Soy Sergio Gallardo y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante.",
+    "acompañantes": [
+      {
+        "id": 35,
+        "nombre": "Yadira Rodríguez"
+      }
+    ]
   },
   "0oqa29h": {
     "id": 36,
-    "slug": "claudia-mancilla",
+    "slug": "claudia-mancilla-y-erik-ruiz",
     "token": "0oqa29h",
     "nombre": "Claudia Mancilla",
-    "saludo": "Claudia",
-    "pases": 1,
-    "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
+    "saludo": "Claudia Mancilla y Erik Ruíz",
+    "pases": 2,
+    "pasesTexto": "Hemos reservado 2 lugares a tu nombre.",
     "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Claudia Mancilla y confirmo mi asistencia a la boda de Gaby y Alex.",
-    "acompañantes": []
-  },
-  "i30uoit": {
-    "id": 37,
-    "slug": "erik",
-    "token": "i30uoit",
-    "nombre": "Erik",
-    "saludo": "Erik",
-    "pases": 1,
-    "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Erik y confirmo mi asistencia a la boda de Gaby y Alex.",
-    "acompañantes": []
+    "confirmacion": "¡Hola! Soy Claudia Mancilla y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante.",
+    "acompañantes": [
+      {
+        "id": 37,
+        "nombre": "Erik Ruíz"
+      }
+    ]
   },
   "bgj09jw": {
     "id": 38,
-    "slug": "leo",
+    "slug": "leonardo-neri-y-ramiro-diaz",
     "token": "bgj09jw",
-    "nombre": "Leo",
-    "saludo": "Leo",
-    "pases": 1,
-    "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
+    "nombre": "Leonardo Neri",
+    "saludo": "Leonardo Neri y Ramiro Díaz",
+    "pases": 2,
+    "pasesTexto": "Hemos reservado 2 lugares a tu nombre.",
     "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Leo y confirmo mi asistencia a la boda de Gaby y Alex.",
-    "acompañantes": []
-  },
-  "x6b1cfs": {
-    "id": 39,
-    "slug": "rami",
-    "token": "x6b1cfs",
-    "nombre": "Rami",
-    "saludo": "Rami",
-    "pases": 1,
-    "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Rami y confirmo mi asistencia a la boda de Gaby y Alex.",
-    "acompañantes": []
+    "confirmacion": "¡Hola! Soy Leonardo Neri y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante.",
+    "acompañantes": [
+      {
+        "id": 39,
+        "nombre": "Ramiro Díaz"
+      }
+    ]
   },
   "e1k3o9o": {
     "id": 40,
-    "slug": "fany-gaitan",
+    "slug": "estefania-gaitan-y-yair-mejia",
     "token": "e1k3o9o",
-    "nombre": "Fany Gaitan",
-    "saludo": "Fany",
-    "pases": 1,
-    "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
+    "nombre": "Estefanía Gaitán",
+    "saludo": "Estefanía Gaitán y Yair Mejía",
+    "pases": 2,
+    "pasesTexto": "Hemos reservado 2 lugares a tu nombre.",
     "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Fany Gaitan y confirmo mi asistencia a la boda de Gaby y Alex.",
-    "acompañantes": []
-  },
-  "36u2o4c": {
-    "id": 41,
-    "slug": "yair",
-    "token": "36u2o4c",
-    "nombre": "Yair",
-    "saludo": "Yair",
-    "pases": 1,
-    "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Yair y confirmo mi asistencia a la boda de Gaby y Alex.",
-    "acompañantes": []
+    "confirmacion": "¡Hola! Soy Estefanía Gaitán y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante.",
+    "acompañantes": [
+      {
+        "id": 41,
+        "nombre": "Yair Mejía"
+      }
+    ]
   },
   "z1dwce7": {
     "id": 42,
-    "slug": "fer-bravo",
+    "slug": "fernanda-bravo-y-yordan-cortes",
     "token": "z1dwce7",
-    "nombre": "Fer Bravo",
-    "saludo": "Fer",
-    "pases": 1,
-    "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
+    "nombre": "Fernanda Bravo",
+    "saludo": "Fernanda Bravo y Yordan Cortés",
+    "pases": 2,
+    "pasesTexto": "Hemos reservado 2 lugares a tu nombre.",
     "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Fer Bravo y confirmo mi asistencia a la boda de Gaby y Alex.",
-    "acompañantes": []
-  },
-  "yg0ibun": {
-    "id": 43,
-    "slug": "yordan-valentin",
-    "token": "yg0ibun",
-    "nombre": "Yordan Valentin",
-    "saludo": "Yordan",
-    "pases": 1,
-    "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Yordan Valentin y confirmo mi asistencia a la boda de Gaby y Alex.",
-    "acompañantes": []
+    "confirmacion": "¡Hola! Soy Fernanda Bravo y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante.",
+    "acompañantes": [
+      {
+        "id": 43,
+        "nombre": "Yordan Cortés"
+      }
+    ]
   },
   "60momar": {
     "id": 44,
-    "slug": "cynthia",
+    "slug": "cynthia-martinez-y-saul-diaz",
     "token": "60momar",
-    "nombre": "Cynthia",
-    "saludo": "Cynthia",
-    "pases": 1,
-    "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
+    "nombre": "Cynthia Martínez",
+    "saludo": "Cynthia Martínez y Saúl Díaz",
+    "pases": 2,
+    "pasesTexto": "Hemos reservado 2 lugares a tu nombre.",
     "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Cynthia y confirmo mi asistencia a la boda de Gaby y Alex.",
-    "acompañantes": []
-  },
-  "geeq0pr": {
-    "id": 45,
-    "slug": "saul",
-    "token": "geeq0pr",
-    "nombre": "Saul",
-    "saludo": "Saul",
-    "pases": 1,
-    "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Saul y confirmo mi asistencia a la boda de Gaby y Alex.",
-    "acompañantes": []
+    "confirmacion": "¡Hola! Soy Cynthia Martínez y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante.",
+    "acompañantes": [
+      {
+        "id": 45,
+        "nombre": "Saúl Díaz"
+      }
+    ]
   },
   "6vbs5zp": {
     "id": 46,
-    "slug": "miriam",
+    "slug": "miriam-hernandez-e-ivan-vazquez",
     "token": "6vbs5zp",
-    "nombre": "Miriam",
-    "saludo": "Miriam",
-    "pases": 1,
-    "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
+    "nombre": "Miriam Hernández",
+    "saludo": "Miriam Hernández e Iván Vázquez",
+    "pases": 2,
+    "pasesTexto": "Hemos reservado 2 lugares a tu nombre.",
     "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Miriam y confirmo mi asistencia a la boda de Gaby y Alex.",
-    "acompañantes": []
-  },
-  "v6ygy6i": {
-    "id": 47,
-    "slug": "ivan",
-    "token": "v6ygy6i",
-    "nombre": "Iván",
-    "saludo": "Iván",
-    "pases": 1,
-    "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Iván y confirmo mi asistencia a la boda de Gaby y Alex.",
-    "acompañantes": []
+    "confirmacion": "¡Hola! Soy Miriam Hernández y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante.",
+    "acompañantes": [
+      {
+        "id": 47,
+        "nombre": "Iván Vázquez"
+      }
+    ]
   },
   "v6i9cdt": {
     "id": 48,
-    "slug": "diana-amezcua",
+    "slug": "diana-amezcua-y-daniel-jimenez",
     "token": "v6i9cdt",
     "nombre": "Diana Amezcua",
-    "saludo": "Diana",
-    "pases": 1,
-    "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
+    "saludo": "Diana Amezcua y Daniel Jimenéz",
+    "pases": 2,
+    "pasesTexto": "Hemos reservado 2 lugares a tu nombre.",
     "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Diana Amezcua y confirmo mi asistencia a la boda de Gaby y Alex.",
-    "acompañantes": []
-  },
-  "y8zjib1": {
-    "id": 49,
-    "slug": "dani",
-    "token": "y8zjib1",
-    "nombre": "Dani",
-    "saludo": "Dani",
-    "pases": 1,
-    "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Dani y confirmo mi asistencia a la boda de Gaby y Alex.",
-    "acompañantes": []
+    "confirmacion": "¡Hola! Soy Diana Amezcua y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante.",
+    "acompañantes": [
+      {
+        "id": 49,
+        "nombre": "Daniel Jiménez"
+      }
+    ]
   },
   "b04n3lb": {
     "id": 50,
-    "slug": "meli",
+    "slug": "melisa-espinosa-y-adrian-conejo",
     "token": "b04n3lb",
-    "nombre": "Meli",
-    "saludo": "Meli",
-    "pases": 1,
-    "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
+    "nombre": "Melisa Espinosa",
+    "saludo": "Melisa Espinosa y Adrian Conejo",
+    "pases": 2,
+    "pasesTexto": "Hemos reservado 2 lugares a tu nombre.",
     "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Meli y confirmo mi asistencia a la boda de Gaby y Alex.",
-    "acompañantes": []
-  },
-  "j14uph6": {
-    "id": 51,
-    "slug": "adrian",
-    "token": "j14uph6",
-    "nombre": "Adrian",
-    "saludo": "Adrian",
-    "pases": 1,
-    "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Adrian y confirmo mi asistencia a la boda de Gaby y Alex.",
-    "acompañantes": []
+    "confirmacion": "¡Hola! Soy Melisa Espinosa y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante.",
+    "acompañantes": [
+      {
+        "id": 51,
+        "nombre": "Adrian Conejo"
+      }
+    ]
   },
   "0qpgf0u": {
     "id": 52,
-    "slug": "joel",
+    "slug": "joel-amador",
     "token": "0qpgf0u",
-    "nombre": "Joel",
-    "saludo": "Joel",
+    "nombre": "Joel Amador",
+    "saludo": "Joel Amador",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
     "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Joel y confirmo mi asistencia a la boda de Gaby y Alex.",
+    "confirmacion": "¡Hola! Soy Joel Amador y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
   "ibrmuiv": {
     "id": 53,
-    "slug": "angie",
+    "slug": "angelica-hernandez",
     "token": "ibrmuiv",
-    "nombre": "Angie",
-    "saludo": "Angie",
+    "nombre": "Angélica Hernández",
+    "saludo": "Angélica Hernández",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
     "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Angie y confirmo mi asistencia a la boda de Gaby y Alex.",
+    "confirmacion": "¡Hola! Soy Angélica Hernández y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
   "5ogt0kn": {
     "id": 54,
-    "slug": "adriana-llamas",
+    "slug": "adriana-hernandez",
     "token": "5ogt0kn",
-    "nombre": "Adriana Llamas",
-    "saludo": "Adriana",
+    "nombre": "Adriana Hernández",
+    "saludo": "Adriana Hernández",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
     "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Adriana Llamas y confirmo mi asistencia a la boda de Gaby y Alex.",
+    "confirmacion": "¡Hola! Soy Adriana Hernández y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
   "87mqxze": {
@@ -625,7 +488,7 @@ window.INVITADOS = {
     "slug": "omar-peraza",
     "token": "87mqxze",
     "nombre": "Omar Peraza",
-    "saludo": "Omar",
+    "saludo": "Omar Peraza",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
     "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
@@ -637,7 +500,7 @@ window.INVITADOS = {
     "slug": "sara-cardona",
     "token": "0rg4yb0",
     "nombre": "Sara Cardona",
-    "saludo": "Sara",
+    "saludo": "Sara Cardona",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
     "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
@@ -646,123 +509,116 @@ window.INVITADOS = {
   },
   "lzjil9k": {
     "id": 57,
-    "slug": "fany-rizo",
+    "slug": "estefania-rizo-y-luis-garcia",
     "token": "lzjil9k",
-    "nombre": "Fany Rizo",
-    "saludo": "Fany",
+    "nombre": "Estefania Rizo",
+    "saludo": "Estefania Rizo y Luis García",
     "pases": 2,
     "pasesTexto": "Hemos reservado 2 lugares a tu nombre.",
     "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Fany Rizo y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante.",
+    "confirmacion": "¡Hola! Soy Estefania Rizo y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante.",
     "acompañantes": [
       {
         "id": 58,
-        "nombre": "Luis"
+        "nombre": "Luis García"
       }
     ]
   },
   "t9hku3e": {
     "id": 59,
-    "slug": "francisco",
+    "slug": "franciso-gonzalez",
     "token": "t9hku3e",
-    "nombre": "Francisco",
-    "saludo": "Francisco",
+    "nombre": "Francisco González",
+    "saludo": "Franciso González",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
     "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Francisco y confirmo mi asistencia a la boda de Gaby y Alex.",
+    "confirmacion": "¡Hola! Soy Francisco González y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
   "8mc85nn": {
     "id": 60,
-    "slug": "daniel",
+    "slug": "daniel-plascencia",
     "token": "8mc85nn",
-    "nombre": "Daniel",
-    "saludo": "Daniel",
+    "nombre": "Daniel Plascencia",
+    "saludo": "Daniel Plascencia",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
     "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Daniel y confirmo mi asistencia a la boda de Gaby y Alex.",
+    "confirmacion": "¡Hola! Soy Daniel Plascencia y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
   "p2ttc6n": {
     "id": 61,
-    "slug": "marco",
+    "slug": "marco-barajas",
     "token": "p2ttc6n",
-    "nombre": "Marco",
-    "saludo": "Marco",
+    "nombre": "Marco Barajas",
+    "saludo": "Marco Barajas",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
     "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Marco y confirmo mi asistencia a la boda de Gaby y Alex.",
+    "confirmacion": "¡Hola! Soy Marco Barajas y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
   "qvac2v6": {
     "id": 62,
-    "slug": "dra-trini",
+    "slug": "dra-trinidad-garcia",
     "token": "qvac2v6",
-    "nombre": "Dra Trini",
-    "saludo": "Dra Trini",
+    "nombre": "Dra. Trinidad García",
+    "saludo": "Dra. Trinidad García",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
     "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Dra Trini y confirmo mi asistencia a la boda de Gaby y Alex.",
+    "confirmacion": "¡Hola! Soy Dra. Trinidad García y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
   "a2ma540": {
     "id": 63,
-    "slug": "dr-pedro",
+    "slug": "dr-pedro-sanchez",
     "token": "a2ma540",
-    "nombre": "Dr Pedro",
-    "saludo": "Dr Pedro",
+    "nombre": "Dr. Pedro Sánchez",
+    "saludo": "Dr. Pedro Sánchez",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
     "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Dr Pedro y confirmo mi asistencia a la boda de Gaby y Alex.",
+    "confirmacion": "¡Hola! Soy Dr. Pedro Sánchez y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
   "g91oa65": {
     "id": 64,
-    "slug": "dra-itzel",
+    "slug": "dra-itzel-reyes",
     "token": "g91oa65",
-    "nombre": "Dra Itzel",
-    "saludo": "Dra Itzel",
+    "nombre": "Dra. Itzel Reyes",
+    "saludo": "Dra. Itzel Reyes",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
     "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Dra Itzel y confirmo mi asistencia a la boda de Gaby y Alex.",
+    "confirmacion": "¡Hola! Soy Dra. Itzel Reyes y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
   "n7k2u89": {
     "id": 65,
-    "slug": "dra-marina",
+    "slug": "dra-marina-galicia-y-dr-christian-monroy",
     "token": "n7k2u89",
-    "nombre": "Dra Marina",
-    "saludo": "Dra Marina",
-    "pases": 1,
-    "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
+    "nombre": "Dra. Marina Galicia",
+    "saludo": "Dra. Marina Galicia y Dr. Christian Monroy",
+    "pases": 2,
+    "pasesTexto": "Hemos reservado 2 lugares a tu nombre.",
     "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Dra Marina y confirmo mi asistencia a la boda de Gaby y Alex.",
-    "acompañantes": []
-  },
-  "v6ezkwa": {
-    "id": 66,
-    "slug": "dr-cristian",
-    "token": "v6ezkwa",
-    "nombre": "Dr Cristian",
-    "saludo": "Dr Cristian",
-    "pases": 1,
-    "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Dr Cristian y confirmo mi asistencia a la boda de Gaby y Alex.",
-    "acompañantes": []
+    "confirmacion": "¡Hola! Soy Dra. Marina Galicia y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante.",
+    "acompañantes": [
+      {
+        "id": 66,
+        "nombre": "Dr. Christian Monroy"
+      }
+    ]
   },
   "7dckbus": {
     "id": 67,
     "slug": "arahi-gaspar",
     "token": "7dckbus",
     "nombre": "Arahi Gaspar",
-    "saludo": "Arahi",
+    "saludo": "Arahi Gaspar",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
     "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
@@ -783,112 +639,106 @@ window.INVITADOS = {
   },
   "fs8ie68": {
     "id": 69,
-    "slug": "pepe-becerra",
+    "slug": "jose-becerra",
     "token": "fs8ie68",
-    "nombre": "Pepe Becerra",
-    "saludo": "Pepe",
+    "nombre": "Jose Becerra",
+    "saludo": "Jose Becerra",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
     "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Pepe Becerra y confirmo mi asistencia a la boda de Gaby y Alex.",
+    "confirmacion": "¡Hola! Soy Jose Becerra y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
   "oys701f": {
     "id": 70,
-    "slug": "miriam-guillen",
+    "slug": "myriam-guillen",
     "token": "oys701f",
-    "nombre": "Miriam Guillen",
-    "saludo": "Miriam",
+    "nombre": "Myriam Guillén",
+    "saludo": "Myriam Guillén",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
     "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Miriam Guillen y confirmo mi asistencia a la boda de Gaby y Alex.",
+    "confirmacion": "¡Hola! Soy Myriam Guillén y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
   "4zu7ohy": {
     "id": 72,
-    "slug": "caro-velarde",
+    "slug": "carolina-velarde-y-cinthia-vazquez",
     "token": "4zu7ohy",
-    "nombre": "Caro Velarde",
-    "saludo": "Caro",
+    "nombre": "Carolina Velarde",
+    "saludo": "Carolina Velarde y Cinthia Vázquez",
     "pases": 2,
     "pasesTexto": "Hemos reservado 2 lugares a tu nombre.",
     "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Caro Velarde y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante.",
+    "confirmacion": "¡Hola! Soy Carolina Velarde y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante.",
     "acompañantes": [
       {
         "id": 71,
-        "nombre": "Cyntia"
+        "nombre": "Cinthia Vázquez"
       }
     ]
   },
   "j5tkt7r": {
     "id": 74,
-    "slug": "marya",
+    "slug": "marya-rojas",
     "token": "j5tkt7r",
-    "nombre": "Marya",
-    "saludo": "Marya",
+    "nombre": "Marya Rojas",
+    "saludo": "Marya Rojas",
     "pases": 2,
     "pasesTexto": "Hemos reservado 2 lugares a tu nombre.",
     "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Marya y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante.",
+    "confirmacion": "¡Hola! Soy Marya Rojas y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante.",
     "acompañantes": [
       {
-        "id": 0
+        "id": 73,
+        "nombre": "Ricardo De Anda"
       }
     ]
   },
   "zusoxdm": {
     "id": 75,
-    "slug": "alejandro-mora-fernandez",
+    "slug": "alejandro-y-patricia",
     "token": "zusoxdm",
-    "nombre": "Alejandro Mora Fernandez",
-    "saludo": "Alejandro",
-    "pases": 1,
-    "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Alejandro Mora Fernandez y confirmo mi asistencia a la boda de Gaby y Alex.",
-    "acompañantes": []
-  },
-  "he1kk4i": {
-    "id": 76,
-    "slug": "patricia-gonzalez-lambaren",
-    "token": "he1kk4i",
-    "nombre": "Patricia Gonzalez Lambaren",
-    "saludo": "Patricia",
-    "pases": 1,
-    "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Patricia Gonzalez Lambaren y confirmo mi asistencia a la boda de Gaby y Alex.",
-    "acompañantes": []
-  },
-  "9uzcohh": {
-    "id": 77,
-    "slug": "jose-eduardo-mora-gonzalez",
-    "token": "9uzcohh",
-    "nombre": "Jose Eduardo Mora Gonzalez",
-    "saludo": "Jose",
+    "nombre": "Alejandro Mora Fernández",
+    "saludo": "Alejandro y Patricia",
     "pases": 2,
     "pasesTexto": "Hemos reservado 2 lugares a tu nombre.",
     "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Jose Eduardo Mora Gonzalez y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante.",
+    "confirmacion": "¡Hola! Soy Alejandro Mora Fernández y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante.",
+    "acompañantes": [
+      {
+        "id": 76,
+        "nombre": "Patricia González"
+      }
+    ]
+  },
+  "9uzcohh": {
+    "id": 77,
+    "slug": "jose-y-gaby",
+    "token": "9uzcohh",
+    "nombre": "Jose Eduardo Mora",
+    "saludo": "José y Gaby",
+    "pases": 2,
+    "pasesTexto": "Hemos reservado 2 lugares a tu nombre.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
+    "confirmacion": "¡Hola! Soy Jose Eduardo Mora y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante.",
     "acompañantes": [
       {
         "id": 78,
-        "nombre": "Gaby Hernandez"
+        "nombre": "Gaby Hernández"
       }
     ]
   },
   "qx5a52k": {
     "id": 79,
-    "slug": "ulises-mora-gonzalez",
+    "slug": "ulises",
     "token": "qx5a52k",
-    "nombre": "Ulises Mora Gonzalez",
+    "nombre": "Ulises Mora",
     "saludo": "Ulises",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
     "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Ulises Mora Gonzalez y confirmo mi asistencia a la boda de Gaby y Alex.",
+    "confirmacion": "¡Hola! Soy Ulises Mora y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
   "kgumjbf": {
@@ -896,7 +746,7 @@ window.INVITADOS = {
     "slug": "teresa-lambaren",
     "token": "kgumjbf",
     "nombre": "Teresa Lambaren",
-    "saludo": "Teresa",
+    "saludo": "Teresa Lambaren",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
     "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
@@ -905,103 +755,80 @@ window.INVITADOS = {
   },
   "7ne7go4": {
     "id": 81,
-    "slug": "tia-claudia",
+    "slug": "claudia-y-gustavo",
     "token": "7ne7go4",
-    "nombre": "Tia Claudia",
-    "saludo": "Tia Claudia",
-    "pases": 1,
-    "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
+    "nombre": "Claudia González",
+    "saludo": "Claudia y Gustavo",
+    "pases": 4,
+    "pasesTexto": "Hemos reservado 4 lugares a tu nombre.",
     "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Tia Claudia y confirmo mi asistencia a la boda de Gaby y Alex.",
-    "acompañantes": []
-  },
-  "5p0q4b7": {
-    "id": 82,
-    "slug": "tio-gus",
-    "token": "5p0q4b7",
-    "nombre": "Tio Gus",
-    "saludo": "Tio Gus",
-    "pases": 1,
-    "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Tio Gus y confirmo mi asistencia a la boda de Gaby y Alex.",
-    "acompañantes": []
-  },
-  "l9l2w7r": {
-    "id": 83,
-    "slug": "dafne",
-    "token": "l9l2w7r",
-    "nombre": "Dafne",
-    "saludo": "Dafne",
-    "pases": 1,
-    "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Dafne y confirmo mi asistencia a la boda de Gaby y Alex.",
-    "acompañantes": []
-  },
-  "wlnek03": {
-    "id": 84,
-    "slug": "sophie",
-    "token": "wlnek03",
-    "nombre": "Sophie",
-    "saludo": "Sophie",
-    "pases": 1,
-    "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Sophie y confirmo mi asistencia a la boda de Gaby y Alex.",
-    "acompañantes": []
+    "confirmacion": "¡Hola! Soy Claudia González y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mis acompañantes.",
+    "acompañantes": [
+      {
+        "id": 82,
+        "nombre": "Gustavo Reyes"
+      },
+      {
+        "id": 83,
+        "nombre": "Dafne Reyes"
+      },
+      {
+        "id": 84,
+        "nombre": "Sophia Reyes"
+      }
+    ]
   },
   "z9r5ci4": {
     "id": 85,
-    "slug": "tia-susana",
+    "slug": "susana",
     "token": "z9r5ci4",
-    "nombre": "Tia Susana",
-    "saludo": "Tia Susana",
+    "nombre": "Susana González",
+    "saludo": "Susana",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
     "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Tia Susana y confirmo mi asistencia a la boda de Gaby y Alex.",
+    "confirmacion": "¡Hola! Soy Susana González y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
   "sn2cso7": {
     "id": 86,
-    "slug": "tia-teresa",
+    "slug": "teresa",
     "token": "sn2cso7",
-    "nombre": "Tia Teresa",
-    "saludo": "Tia Teresa",
+    "nombre": "Teresa González",
+    "saludo": "Teresa",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
     "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Tia Teresa y confirmo mi asistencia a la boda de Gaby y Alex.",
+    "confirmacion": "¡Hola! Soy Teresa González y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
   "buno43f": {
     "id": 87,
     "slug": "karla",
     "token": "buno43f",
-    "nombre": "Karla",
+    "nombre": "Karla Solís",
     "saludo": "Karla",
     "pases": 2,
     "pasesTexto": "Hemos reservado 2 lugares a tu nombre.",
     "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Karla y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante.",
+    "confirmacion": "¡Hola! Soy Karla Solís y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante.",
     "acompañantes": [
       {
         "id": 88,
-        "nombre": "Zoe"
+        "nombre": "Zoe Ruíz"
       }
     ]
   },
   "g3x6f4i": {
     "id": 89,
-    "slug": "mariana",
+    "slug": "mariana-y-emilio",
     "token": "g3x6f4i",
-    "nombre": "Mariana",
-    "saludo": "Mariana",
+    "nombre": "Mariana Solís",
+    "saludo": "Mariana y Emilio",
     "pases": 2,
     "pasesTexto": "Hemos reservado 2 lugares a tu nombre.",
     "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Mariana y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante.",
+    "confirmacion": "¡Hola! Soy Mariana Solís y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante.",
     "acompañantes": [
       {
         "id": 90,
@@ -1011,14 +838,14 @@ window.INVITADOS = {
   },
   "5o0l6mq": {
     "id": 91,
-    "slug": "carlos",
+    "slug": "carlos-y-ximena",
     "token": "5o0l6mq",
-    "nombre": "Carlos",
-    "saludo": "Carlos",
+    "nombre": "Carlos Solís",
+    "saludo": "Carlos y Ximena",
     "pases": 2,
     "pasesTexto": "Hemos reservado 2 lugares a tu nombre.",
     "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Carlos y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante.",
+    "confirmacion": "¡Hola! Soy Carlos Solís y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante.",
     "acompañantes": [
       {
         "id": 92,
@@ -1028,14 +855,14 @@ window.INVITADOS = {
   },
   "73czvin": {
     "id": 93,
-    "slug": "fer",
+    "slug": "fernando-y-atziri",
     "token": "73czvin",
-    "nombre": "Fer",
-    "saludo": "Fer",
+    "nombre": "Fernando Solís",
+    "saludo": "Fernando y Atziri",
     "pases": 2,
     "pasesTexto": "Hemos reservado 2 lugares a tu nombre.",
     "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Fer y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante.",
+    "confirmacion": "¡Hola! Soy Fernando Solís y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante.",
     "acompañantes": [
       {
         "id": 94,
@@ -1045,63 +872,64 @@ window.INVITADOS = {
   },
   "vz3w2mr": {
     "id": 95,
-    "slug": "tia-elisa",
+    "slug": "elisa-y-miguel",
     "token": "vz3w2mr",
-    "nombre": "Tia Elisa",
-    "saludo": "Tia Elisa",
+    "nombre": "Elisa González",
+    "saludo": "Elisa y Miguel",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
     "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Tia Elisa y confirmo mi asistencia a la boda de Gaby y Alex.",
+    "confirmacion": "¡Hola! Soy Elisa González y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
   "8ay8pjq": {
     "id": 96,
-    "slug": "miguel-pollo",
+    "slug": "miguel-y-diana",
     "token": "8ay8pjq",
     "nombre": "Miguel (Pollo)",
-    "saludo": "Miguel",
+    "saludo": "Miguel y Diana",
     "pases": 2,
     "pasesTexto": "Hemos reservado 2 lugares a tu nombre.",
     "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
     "confirmacion": "¡Hola! Soy Miguel (Pollo) y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante.",
     "acompañantes": [
       {
-        "id": 0
+        "id": 97,
+        "nombre": "Diana"
       }
     ]
   },
   "zqvwh11": {
     "id": 98,
-    "slug": "tio-pedro",
+    "slug": "pedro-y-blanca",
     "token": "zqvwh11",
-    "nombre": "Tio Pedro",
-    "saludo": "Tio Pedro",
+    "nombre": "Pedro González",
+    "saludo": "Pedro y Blanca",
     "pases": 2,
     "pasesTexto": "Hemos reservado 2 lugares a tu nombre.",
     "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Tio Pedro y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante.",
+    "confirmacion": "¡Hola! Soy Pedro González y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante.",
     "acompañantes": [
       {
         "id": 99,
-        "nombre": "Tia Blanca"
+        "nombre": "Blanca"
       }
     ]
   },
   "0x7e804": {
     "id": 100,
-    "slug": "tio-miguel-gonzalez",
+    "slug": "miguel-y-edtih",
     "token": "0x7e804",
-    "nombre": "Tio Miguel Gonzalez",
-    "saludo": "Tio Miguel",
+    "nombre": "Miguel González",
+    "saludo": "Miguel y Edtih",
     "pases": 4,
     "pasesTexto": "Hemos reservado 4 lugares a tu nombre.",
     "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Tio Miguel Gonzalez y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mis acompañantes.",
+    "confirmacion": "¡Hola! Soy Miguel González y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mis acompañantes.",
     "acompañantes": [
       {
         "id": 101,
-        "nombre": "Tia Edith"
+        "nombre": "Edith"
       },
       {
         "id": 102,
@@ -1115,50 +943,50 @@ window.INVITADOS = {
   },
   "hoaev8j": {
     "id": 104,
-    "slug": "tia-luz",
+    "slug": "luz",
     "token": "hoaev8j",
-    "nombre": "Tia Luz",
-    "saludo": "Tia Luz",
+    "nombre": "Luz González",
+    "saludo": "Luz",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
     "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Tia Luz y confirmo mi asistencia a la boda de Gaby y Alex.",
+    "confirmacion": "¡Hola! Soy Luz González y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
   "3thpbby": {
     "id": 105,
-    "slug": "adrian-105",
+    "slug": "adrian",
     "token": "3thpbby",
-    "nombre": "Adrian",
-    "saludo": "Adrian",
+    "nombre": "Adrian Valencia",
+    "saludo": "Adrián",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
     "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Adrian y confirmo mi asistencia a la boda de Gaby y Alex.",
+    "confirmacion": "¡Hola! Soy Adrian Valencia y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
   "rhwntg8": {
     "id": 106,
     "slug": "melisa",
     "token": "rhwntg8",
-    "nombre": "Melisa",
+    "nombre": "Melisa Valencia",
     "saludo": "Melisa",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
     "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Melisa y confirmo mi asistencia a la boda de Gaby y Alex.",
+    "confirmacion": "¡Hola! Soy Melisa Valencia y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
   "eknvj58": {
     "id": 107,
-    "slug": "abril",
+    "slug": "abril-y-abraham",
     "token": "eknvj58",
-    "nombre": "Abril",
-    "saludo": "Abril",
+    "nombre": "Abril Valencia",
+    "saludo": "Abril y Abraham",
     "pases": 2,
     "pasesTexto": "Hemos reservado 2 lugares a tu nombre.",
     "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Abril y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante.",
+    "confirmacion": "¡Hola! Soy Abril Valencia y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante.",
     "acompañantes": [
       {
         "id": 108,
@@ -1168,30 +996,31 @@ window.INVITADOS = {
   },
   "ozqt6lb": {
     "id": 109,
-    "slug": "fede-mora",
+    "slug": "federico-y-yesadel",
     "token": "ozqt6lb",
-    "nombre": "Fede Mora",
-    "saludo": "Fede",
+    "nombre": "Federico Mora",
+    "saludo": "Federico y Yesadel",
     "pases": 2,
     "pasesTexto": "Hemos reservado 2 lugares a tu nombre.",
     "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Fede Mora y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante.",
+    "confirmacion": "¡Hola! Soy Federico Mora y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante.",
     "acompañantes": [
       {
-        "id": 0
+        "id": 110,
+        "nombre": "Yesadel"
       }
     ]
   },
   "o0cnpsp": {
     "id": 111,
-    "slug": "tia-adriana",
+    "slug": "adriana",
     "token": "o0cnpsp",
-    "nombre": "Tia Adriana",
-    "saludo": "Tia Adriana",
+    "nombre": "Adriana",
+    "saludo": "Adriana",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
     "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Tia Adriana y confirmo mi asistencia a la boda de Gaby y Alex.",
+    "confirmacion": "¡Hola! Soy Adriana y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
   "aa8zq19": {
@@ -1228,38 +1057,31 @@ window.INVITADOS = {
   },
   "kaeqgg6": {
     "id": 116,
-    "slug": "tia-sandra",
+    "slug": "sandra-y-armando",
     "token": "kaeqgg6",
-    "nombre": "Tia Sandra",
-    "saludo": "Tia Sandra",
-    "pases": 1,
-    "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
+    "nombre": "Sandra Fernández",
+    "saludo": "Sandra y Armando",
+    "pases": 2,
+    "pasesTexto": "Hemos reservado 2 lugares a tu nombre.",
     "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Tia Sandra y confirmo mi asistencia a la boda de Gaby y Alex.",
-    "acompañantes": []
-  },
-  "t9kc4ls": {
-    "id": 117,
-    "slug": "tio-mati",
-    "token": "t9kc4ls",
-    "nombre": "Tio Mati",
-    "saludo": "Tio Mati",
-    "pases": 1,
-    "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Tio Mati y confirmo mi asistencia a la boda de Gaby y Alex.",
-    "acompañantes": []
+    "confirmacion": "¡Hola! Soy Sandra Fernández y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante.",
+    "acompañantes": [
+      {
+        "id": 117,
+        "nombre": "Armando"
+      }
+    ]
   },
   "r04qkvr": {
     "id": 118,
     "slug": "alvaro",
     "token": "r04qkvr",
-    "nombre": "Alvaro",
-    "saludo": "Alvaro",
+    "nombre": "Alvaro Roldán",
+    "saludo": "Álvaro",
     "pases": 2,
     "pasesTexto": "Hemos reservado 2 lugares a tu nombre.",
     "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Alvaro y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante.",
+    "confirmacion": "¡Hola! Soy Alvaro Roldán y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante.",
     "acompañantes": [
       {
         "id": 0
@@ -1270,12 +1092,12 @@ window.INVITADOS = {
     "id": 120,
     "slug": "sergio",
     "token": "r0pt0f1",
-    "nombre": "Sergio",
+    "nombre": "Sergio Roldán",
     "saludo": "Sergio",
     "pases": 2,
     "pasesTexto": "Hemos reservado 2 lugares a tu nombre.",
     "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Sergio y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante.",
+    "confirmacion": "¡Hola! Soy Sergio Roldán y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante.",
     "acompañantes": [
       {
         "id": 0
@@ -1286,88 +1108,66 @@ window.INVITADOS = {
     "id": 122,
     "slug": "lalito",
     "token": "p6s60zt",
-    "nombre": "Lalito",
+    "nombre": "Eduardo Mora",
     "saludo": "Lalito",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
     "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Lalito y confirmo mi asistencia a la boda de Gaby y Alex.",
+    "confirmacion": "¡Hola! Soy Eduardo Mora y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
   "g64vwzd": {
     "id": 123,
-    "slug": "padrino-rico",
+    "slug": "ricardo-y-brenda",
     "token": "g64vwzd",
-    "nombre": "Padrino Rico",
-    "saludo": "Padrino Rico",
-    "pases": 2,
-    "pasesTexto": "Hemos reservado 2 lugares a tu nombre.",
+    "nombre": "Ricardo Hernández",
+    "saludo": "Ricardo y Brenda",
+    "pases": 4,
+    "pasesTexto": "Hemos reservado 4 lugares a tu nombre.",
     "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Padrino Rico y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante.",
+    "confirmacion": "¡Hola! Soy Ricardo Hernández y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mis acompañantes.",
     "acompañantes": [
       {
-        "id": 0
+        "id": 124,
+        "nombre": "Brenda"
+      },
+      {
+        "id": 125,
+        "nombre": "Ricardo Alejandro Hernández"
+      },
+      {
+        "id": 126,
+        "nombre": "Angel Hernández"
       }
     ]
   },
-  "f37t0w6": {
-    "id": 125,
-    "slug": "ricardito",
-    "token": "f37t0w6",
-    "nombre": "Ricardito",
-    "saludo": "Ricardito",
-    "pases": 1,
-    "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Ricardito y confirmo mi asistencia a la boda de Gaby y Alex.",
-    "acompañantes": []
-  },
-  "kki6m78": {
-    "id": 126,
-    "slug": "angel-126",
-    "token": "kki6m78",
-    "nombre": "Angel",
-    "saludo": "Angel",
-    "pases": 1,
-    "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Angel y confirmo mi asistencia a la boda de Gaby y Alex.",
-    "acompañantes": []
-  },
   "nhvz57l": {
     "id": 127,
-    "slug": "richi",
+    "slug": "ricardo-y-anahi",
     "token": "nhvz57l",
-    "nombre": "Richi",
-    "saludo": "Richi",
-    "pases": 1,
-    "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
+    "nombre": "Ricardo Moreno",
+    "saludo": "Ricardo y Anahí",
+    "pases": 2,
+    "pasesTexto": "Hemos reservado 2 lugares a tu nombre.",
     "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Richi y confirmo mi asistencia a la boda de Gaby y Alex.",
-    "acompañantes": []
-  },
-  "h5vbp17": {
-    "id": 128,
-    "slug": "anahi",
-    "token": "h5vbp17",
-    "nombre": "Anahi",
-    "saludo": "Anahi",
-    "pases": 1,
-    "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
-    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Anahi y confirmo mi asistencia a la boda de Gaby y Alex.",
-    "acompañantes": []
+    "confirmacion": "¡Hola! Soy Ricardo Moreno y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante.",
+    "acompañantes": [
+      {
+        "id": 128,
+        "nombre": "Anahí Briseño"
+      }
+    ]
   },
   "o4nuc3q": {
     "id": 129,
     "slug": "hector",
     "token": "o4nuc3q",
-    "nombre": "Hector",
-    "saludo": "Hector",
+    "nombre": "Hector Moreno",
+    "saludo": "Héctor",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
     "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Hector y confirmo mi asistencia a la boda de Gaby y Alex.",
+    "confirmacion": "¡Hola! Soy Hector Moreno y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
   "kokndwk": {
@@ -1384,47 +1184,47 @@ window.INVITADOS = {
   },
   "hgkqt7w": {
     "id": 131,
-    "slug": "tito",
+    "slug": "ernesto",
     "token": "hgkqt7w",
-    "nombre": "Tito",
-    "saludo": "Tito",
+    "nombre": "Ernesto",
+    "saludo": "Ernesto",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
     "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Tito y confirmo mi asistencia a la boda de Gaby y Alex.",
+    "confirmacion": "¡Hola! Soy Ernesto y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
   "1wh1nca": {
     "id": 132,
-    "slug": "roy-132",
+    "slug": "rodrigo-y-cristina",
     "token": "1wh1nca",
-    "nombre": "Roy",
-    "saludo": "Roy",
+    "nombre": "Rodrigo Malagon",
+    "saludo": "Rodrigo y Cristina",
     "pases": 2,
     "pasesTexto": "Hemos reservado 2 lugares a tu nombre.",
     "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Roy y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante.",
+    "confirmacion": "¡Hola! Soy Rodrigo Malagon y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante.",
     "acompañantes": [
       {
         "id": 133,
-        "nombre": "Kitti"
+        "nombre": "Cristina"
       }
     ]
   },
   "mq2twnr": {
     "id": 134,
-    "slug": "chiva",
+    "slug": "alejandro-yolanda-y-aris",
     "token": "mq2twnr",
-    "nombre": "Chiva",
-    "saludo": "Chiva",
+    "nombre": "Alejandro Castillo",
+    "saludo": "Alejandro, Yolanda y Aris",
     "pases": 3,
     "pasesTexto": "Hemos reservado 3 lugares a tu nombre.",
     "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Chiva y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mis acompañantes.",
+    "confirmacion": "¡Hola! Soy Alejandro Castillo y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mis acompañantes.",
     "acompañantes": [
       {
         "id": 135,
-        "nombre": "Yoli"
+        "nombre": "Jazmín"
       },
       {
         "id": 136,
@@ -1434,31 +1234,31 @@ window.INVITADOS = {
   },
   "r87jlxe": {
     "id": 137,
-    "slug": "edson",
+    "slug": "edson-y-leslie",
     "token": "r87jlxe",
-    "nombre": "Edson",
-    "saludo": "Edson",
+    "nombre": "Edson Alcantar",
+    "saludo": "Edson y Leslie",
     "pases": 2,
     "pasesTexto": "Hemos reservado 2 lugares a tu nombre.",
     "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Edson y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante.",
+    "confirmacion": "¡Hola! Soy Edson Alcantar y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante.",
     "acompañantes": [
       {
         "id": 138,
-        "nombre": "Lesli"
+        "nombre": "Leslie"
       }
     ]
   },
   "g4c14nw": {
     "id": 139,
-    "slug": "matu",
+    "slug": "edgar-y-priscilla",
     "token": "g4c14nw",
-    "nombre": "Matu",
-    "saludo": "Matu",
+    "nombre": "Edgar",
+    "saludo": "Edgar y Priscilla",
     "pases": 2,
     "pasesTexto": "Hemos reservado 2 lugares a tu nombre.",
     "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Matu y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante.",
+    "confirmacion": "¡Hola! Soy Edgar y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante.",
     "acompañantes": [
       {
         "id": 140,
@@ -1468,14 +1268,14 @@ window.INVITADOS = {
   },
   "flw37tm": {
     "id": 141,
-    "slug": "pulido",
+    "slug": "pablo-pulido",
     "token": "flw37tm",
-    "nombre": "Pulido",
-    "saludo": "Pulido",
+    "nombre": "Pablo Pulido",
+    "saludo": "Pablo Pulido",
     "pases": 2,
     "pasesTexto": "Hemos reservado 2 lugares a tu nombre.",
     "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Pulido y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante.",
+    "confirmacion": "¡Hola! Soy Pablo Pulido y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante.",
     "acompañantes": [
       {
         "id": 0
@@ -1484,26 +1284,26 @@ window.INVITADOS = {
   },
   "0zmui25": {
     "id": 143,
-    "slug": "efra",
+    "slug": "efrain-alcantar",
     "token": "0zmui25",
-    "nombre": "Efra",
-    "saludo": "Efra",
+    "nombre": "Efraín Alcantar",
+    "saludo": "Efraín Alcántar",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
     "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Efra y confirmo mi asistencia a la boda de Gaby y Alex.",
+    "confirmacion": "¡Hola! Soy Efraín Alcantar y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
   "92tzimu": {
     "id": 144,
-    "slug": "messi",
+    "slug": "luis-y-patsi",
     "token": "92tzimu",
-    "nombre": "Messi",
-    "saludo": "Messi",
+    "nombre": "Luis Dueñas",
+    "saludo": "Luis y Patsi",
     "pases": 2,
     "pasesTexto": "Hemos reservado 2 lugares a tu nombre.",
     "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Messi y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante.",
+    "confirmacion": "¡Hola! Soy Luis Dueñas y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante.",
     "acompañantes": [
       {
         "id": 145,
@@ -1513,55 +1313,101 @@ window.INVITADOS = {
   },
   "pxeyw2e": {
     "id": 146,
-    "slug": "afri",
+    "slug": "fernando-y-patricia",
     "token": "pxeyw2e",
-    "nombre": "Afri",
-    "saludo": "Afri",
+    "nombre": "Fernando Molina",
+    "saludo": "Fernando y Patricia",
     "pases": 2,
     "pasesTexto": "Hemos reservado 2 lugares a tu nombre.",
     "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Afri y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante.",
+    "confirmacion": "¡Hola! Soy Fernando Molina y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante.",
     "acompañantes": [
       {
         "id": 147,
-        "nombre": "Paty"
+        "nombre": "Patricia"
       }
     ]
   },
   "7wd80fn": {
     "id": 148,
-    "slug": "roy-franco",
+    "slug": "rodrigo-franco",
     "token": "7wd80fn",
-    "nombre": "Roy Franco",
-    "saludo": "Roy",
+    "nombre": "Rodrigo Franco",
+    "saludo": "Rodrigo Franco",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
     "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Roy Franco y confirmo mi asistencia a la boda de Gaby y Alex.",
+    "confirmacion": "¡Hola! Soy Rodrigo Franco y confirmo mi asistencia a la boda de Gaby y Alex.",
     "acompañantes": []
   },
   "mx4fpcp": {
     "id": 149,
-    "slug": "ceci",
+    "slug": "cecilia",
     "token": "mx4fpcp",
-    "nombre": "Ceci",
-    "saludo": "Ceci",
-    "pases": 1,
-    "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
+    "nombre": "Cecilia Gil",
+    "saludo": "Cecilia",
+    "pases": 2,
+    "pasesTexto": "Hemos reservado 2 lugares a tu nombre.",
     "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Ceci y confirmo mi asistencia a la boda de Gaby y Alex.",
-    "acompañantes": []
+    "confirmacion": "¡Hola! Soy Cecilia Gil y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante.",
+    "acompañantes": [
+      {
+        "id": 150,
+        "nombre": "Atziri"
+      }
+    ]
   },
-  "umxa2sh": {
-    "id": 150,
-    "slug": "atziri",
-    "token": "umxa2sh",
-    "nombre": "Atziri",
-    "saludo": "Atziri",
-    "pases": 1,
-    "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
+  "xn9xdd9": {
+    "id": 151,
+    "slug": "jose-olguin-y-laura-ramirez",
+    "token": "xn9xdd9",
+    "nombre": "José Juan Olguin",
+    "saludo": "José Olguin y Laura Ramírez",
+    "pases": 2,
+    "pasesTexto": "Hemos reservado 2 lugares a tu nombre.",
     "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Atziri y confirmo mi asistencia a la boda de Gaby y Alex.",
-    "acompañantes": []
+    "confirmacion": "¡Hola! Soy José Juan Olguin y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante.",
+    "acompañantes": [
+      {
+        "id": 152,
+        "nombre": "Laura Ramírez"
+      }
+    ]
   }
+};
+
+// Alias para redirigir tokens antiguos de acompañantes a su invitación grupal
+window.INVITADOS_ALIAS = {
+  "mpemhqy": "bt6269j",
+  "scsxb9g": "bt6269j",
+  "xpwnyyo": "hpz69cn",
+  "f5a9c24": "5b5ij9h",
+  "hev1r1y": "fy86a6s",
+  "yh33gj1": "8gwekef",
+  "emiapag": "ho9o4c5",
+  "6wmybi8": "sb7ce63",
+  "yxn37ch": "sb7ce63",
+  "re76bsq": "sb7ce63",
+  "yejkt3x": "56gqc97",
+  "gdonw7y": "dugm9js",
+  "2215gtn": "w4ohrb9",
+  "nya546a": "lin1aov",
+  "i30uoit": "0oqa29h",
+  "x6b1cfs": "bgj09jw",
+  "36u2o4c": "e1k3o9o",
+  "yg0ibun": "z1dwce7",
+  "geeq0pr": "60momar",
+  "v6ygy6i": "6vbs5zp",
+  "y8zjib1": "v6i9cdt",
+  "j14uph6": "b04n3lb",
+  "v6ezkwa": "n7k2u89",
+  "he1kk4i": "zusoxdm",
+  "5p0q4b7": "7ne7go4",
+  "l9l2w7r": "7ne7go4",
+  "wlnek03": "7ne7go4",
+  "t9kc4ls": "kaeqgg6",
+  "f37t0w6": "g64vwzd",
+  "kki6m78": "g64vwzd",
+  "h5vbp17": "nhvz57l",
+  "umxa2sh": "mx4fpcp"
 };
