@@ -1349,16 +1349,23 @@ window.INVITADOS = {
     "token": "mx4fpcp",
     "nombre": "Cecilia Gil",
     "saludo": "Cecilia",
-    "pases": 2,
-    "pasesTexto": "Hemos reservado 2 lugares a tu nombre.",
+    "pases": 1,
+    "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
     "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Cecilia Gil y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante.",
-    "acompañantes": [
-      {
-        "id": 150,
-        "nombre": "Atziri"
-      }
-    ]
+    "confirmacion": "¡Hola! Soy Cecilia Gil y confirmo mi asistencia a la boda de Gaby y Alex.",
+    "acompañantes": []
+  },
+  "umxa2sh": {
+    "id": 150,
+    "slug": "atziri",
+    "token": "umxa2sh",
+    "nombre": "Atziri",
+    "saludo": "Atziri",
+    "pases": 1,
+    "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
+    "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
+    "confirmacion": "¡Hola! Soy Atziri y confirmo mi asistencia a la boda de Gaby y Alex.",
+    "acompañantes": []
   },
   "xn9xdd9": {
     "id": 151,
@@ -1411,6 +1418,5 @@ window.INVITADOS_ALIAS = {
   "t9kc4ls": "kaeqgg6",
   "f37t0w6": "g64vwzd",
   "kki6m78": "g64vwzd",
-  "h5vbp17": "nhvz57l",
-  "umxa2sh": "mx4fpcp"
+  "h5vbp17": "nhvz57l"
 };
