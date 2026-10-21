@@ -921,26 +921,18 @@ window.INVITADOS = {
   },
   "0x7e804": {
     "id": 100,
-    "slug": "miguel-y-edtih",
+    "slug": "miguel-y-edith",
     "token": "0x7e804",
     "nombre": "Miguel González",
-    "saludo": "Miguel y Edtih",
-    "pases": 4,
-    "pasesTexto": "Hemos reservado 4 lugares a tu nombre.",
+    "saludo": "Miguel y Edith",
+    "pases": 2,
+    "pasesTexto": "Hemos reservado 2 lugares a tu nombre.",
     "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Miguel González y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mis acompañantes.",
+    "confirmacion": "¡Hola! Soy Miguel González y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante.",
     "acompañantes": [
       {
         "id": 101,
         "nombre": "Edith"
-      },
-      {
-        "id": 102,
-        "nombre": "Vaitiare"
-      },
-      {
-        "id": 103,
-        "nombre": "Valeria"
       }
     ]
   },
@@ -1109,10 +1101,10 @@ window.INVITADOS = {
   },
   "p6s60zt": {
     "id": 122,
-    "slug": "lalito",
+    "slug": "eduardo",
     "token": "p6s60zt",
     "nombre": "Eduardo Mora",
-    "saludo": "Lalito",
+    "saludo": "Eduardo",
     "pases": 1,
     "pasesTexto": "Hemos reservado 1 lugar a tu nombre.",
     "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
