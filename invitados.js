@@ -701,14 +701,17 @@ window.INVITADOS = {
     "token": "zusoxdm",
     "nombre": "Alejandro Mora Fernández",
     "saludo": "Alejandro y Patricia",
-    "pases": 2,
-    "pasesTexto": "Hemos reservado 2 lugares a tu nombre.",
+    "pases": 3,
+    "pasesTexto": "Hemos reservado 3 lugares a tu nombre.",
     "mensaje": "Acompáñanos a poner este tercer hilo, que es nuestra fe.\nNos harías un gran favor si confirmas tu asistencia.",
-    "confirmacion": "¡Hola! Soy Alejandro Mora Fernández y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mi acompañante.",
+    "confirmacion": "¡Hola! Soy Alejandro Mora Fernández y confirmo mi asistencia a la boda de Gaby y Alex, así como la de mis acompañantes.",
     "acompañantes": [
       {
         "id": 76,
         "nombre": "Patricia González"
+      },
+      {
+        "id": 0
       }
     ]
   },
